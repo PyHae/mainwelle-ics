@@ -1,0 +1,1238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mainwelle-ics//Radio Mainwelle Veranstaltungen//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Radio Mainwelle Veranstaltungen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:mainwelle-2382036@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261201
+SUMMARY:RW21 Leseherbst 2026
+LOCATION:RW21 Stadtbibliothek Volkshochschule\, Richard-Wagner-Str. 21\, 95
+ 444 Bayreuth
+DESCRIPTION:Eintritt: Je nach Veranstaltung\nIn Kooperation mit der vhs und
+  der Buchhandlung Weigel. Lauschen. Lesen. Literatur genießen. Das ist da
+ s Motto des RW21 Leseherbstes. Lesungen mit (Bestseller-)Autorinnen wie Ur
+ sula Poznanski und Marina Neumeier\, Schreibworkshops und spannende\, lite
+ rarische Vorträge – das alles gibt es nur im RW21 Stadtbibliothek Volks
+ hochschule!
+URL:https://www.mainwelle.de/veranstaltung/rw21-leseherbst-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2408112@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20261001
+SUMMARY:Veranstaltungen im KOMM
+LOCATION:Kommunales Jugendzentrum
+DESCRIPTION:KOMM Festival -> Samstag 5. September ab 14.00 Uhr ->Workshops:
+  Graffiti\, Sammelkartentausch\, DJ\, Breakdance -> Ab 19.00 Uhr Konzert m
+ it regionalen Hip-Hop Künstlern (Eintritt 5 €) Fresh Food Day -> Mittwo
+ ch 9. September ab 15.00 uhr -> Gemeinsames Kochen und anschließendes ess
+ en Offenes Werken -> Mittwoch 16. September zwischen 15.00- 16.00 Uhr öff
+ net die Werkstatt…
+URL:https://www.mainwelle.de/veranstaltung/veranstaltungen-im-komm/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2425653@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20261003
+SUMMARY:RICHARD ZIEHT EIN – und Walhall wird lebendig: Lichtinstallation
+LOCATION:Museumsscheune Goldkronach (beim Goldbergbaumuseum)\, Bayreuther S
+ traße 21\, 95497 Goldkronach
+DESCRIPTION:Vernissage: Freitag\, 11. September 2026\, 17 Uhr Der internati
+ onal tätige Künstler\, Kirchenmalermeister und Designer Volker Wunderlic
+ h nähert sich dem Motiv des „Schatzes“ über eine eindrucksvolle Lich
+ tinstallation. Ausgehend von der Mythologie des Rheingolds thematisiert se
+ ine Arbeit die Verführungskraft von Macht\, den Verlust ursprünglicher W
+ erte und den Übergang von Natur zu Inszenierung. Ein vertikaler Strom aus
+  Gold\,…
+URL:https://www.mainwelle.de/veranstaltung/richard-zieht-ein-und-walhall-wi
+ rd-lebendig-lichtinstallation/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2439717@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260929
+SUMMARY:Kerwa Obernsees
+LOCATION:Am Festplatz\, 95490 Mistelgau-Obernsees
+DESCRIPTION:Zeit laut Veranstalter: 11:30 – 4:00
+URL:https://www.mainwelle.de/veranstaltung/kerwa-obernsees/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2452554@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261030
+SUMMARY:"Schichtwechsel" - Kunstausstellung in der Schlossgalerie
+LOCATION:Schlossgalerie\, Kanalstraße 3\, Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 13.00 – 18.00\nEintritt: Eintritt fre
+ i\nEine Kunstausstellung der besonderen Art. In zwei Schichten stellen zun
+ ächst die Kunstlehrkräfte des MWG ihre aktuellen Werke aus und in den da
+ rauffolgenden Wochen ehemalige und jetzige Schülerinnen und Schüler. Ein
+  generationsübergreifender\, spannender Einblick in die Kunst in und um B
+ ayreuth.
+URL:https://www.mainwelle.de/veranstaltung/schichtwechsel-kunstausstellung-
+ in-der-schlossgalerie/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2443962@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:Berschla Kerwa in Weidenberg
+LOCATION:Kleintierzuchthalle Weidenberg\, Ahornstraße
+DESCRIPTION:Zeit laut Veranstalter: 18 – Open End\nEintritt: 6 Euro\n🎉
+  Berschla Kerwa 2026 – Auf geht’s zur Kerwa! Vom 25. bis 27. September
+  heißt es wieder: Kerwa in Weidenberg! 🍻🎶 Drei Tage lang wird in de
+ r Kleintierzüchthalle gefeiert\, getanzt\, gelacht und natürlich ordentl
+ ich aufgetischt. 🔥 Freitag\, 25.09. Los geht’s ab 18 Uhr mit Sau vom 
+ Spieß\, frisch am Holzfeuer gegrillt. Ab 20 Uhr sorgt…
+URL:https://www.mainwelle.de/veranstaltung/berschla-kerwa/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2382744@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:Kerwa in Stockau
+LOCATION:Feuewehrhaus Stockau\, Hauptstraße Richtung Lessau
+DESCRIPTION:Zeit laut Veranstalter: 19 Uhr – Open End\nEintritt: Eintritt
+  frei\nDie Kerwa der Feuerwehr Stockau ist klein aber fein. Wir starten am
+  Freitag mit Gyros uns Grillteller. Am Samstag gibt es Currywurst\, Haxen 
+ und Grillspezialitäten. Am letzten Tag den Sonntag lädt die Kaffestube m
+ it einen Stück Torte und dazu einen Cappuccino oder Kaffee zum Verweilen 
+ ein.
+URL:https://www.mainwelle.de/veranstaltung/kerwa-in-stockau/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2422203@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Herbst-/Winterbasar des kath.Kindergarten St. Marien in Creußen
+LOCATION:Mehrzweckhalle Creußen\, Bahnhofstraße 11\, Creußen
+DESCRIPTION:Zeit laut Veranstalter: 16:00 – 11:30\nEintritt: Eintritt fre
+ i\nSamstag\, 26.09.26 Schwangerenverkauf von 16 – 17 Uhr mit kleinem Kuc
+ henverkauf 🎂 Sonntag\, 27.09.26 Hauptverkauf von. 09:00 – 11:30 Uhr m
+ it großem Kuchenverkauf 🎂…
+URL:https://www.mainwelle.de/veranstaltung/herbst-winterbasar-des-kath-kind
+ ergarten-st-marien-in-creussen/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2450493@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260929
+SUMMARY:Kerwa in Lindenhardt
+LOCATION:Lindenhardt\, Kerwaplatz\, An der Kirche\, Lindenhardt
+DESCRIPTION:Zeit laut Veranstalter: 18:00
+URL:https://www.mainwelle.de/veranstaltung/kerwa-in-lindenhardt/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2431458@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Schlachtschüsselessen und Weißwurstfrühschoppen
+LOCATION:Am Sportplatz Ramlesreuth
+DESCRIPTION:Eintritt: Eintritt frei\nWir laden euch alle herzlich zu unsere
+ m Schlachtschüsselessen am 26.09.26 ab 18.00 Uhr nach Ramlesreuth ins Hä
+ usl am Sportplatz ein. Es gibt leckere Blut- und Leberwürste sowie Fleisc
+ h und Sauerkraut mit Brot. Am 27.09.26 ist ab 10.00 Uhr unser Weißwurstfr
+ ühschoppen ebenfalls im Häusl in Ramlesreuth. Wir freuen uns auf euren B
+ esuch und gute Laune.
+URL:https://www.mainwelle.de/veranstaltung/schlachtschuesselessen-und-weiss
+ wurstfruehschoppen/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2403597@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T073000Z
+DTEND:20260927T100000Z
+SUMMARY:Herbst- und Winterflohmarkt in Weidenberg
+LOCATION:Schule Weidenberg\, Schulstrasse 2\, weidenberg
+DESCRIPTION:Zeit laut Veranstalter: 09:30 – 12:00\nEintritt: Eintritt fre
+ o\nHerbst-/ Winterbekleidung Größe 50-176 | Umstandskleidung | Babyausst
+ attung | Spielsachen\, Puzzle | Bücher\, DVD‘ s/CD’s\, Hörbücher | 
+ Schlitten\, Skis\, Kinderwagen\, uvm… Einlass für Schwangere mit Beglei
+ tperson um 9:00 Uhr. Wir freuen uns auf euch!!
+URL:https://www.mainwelle.de/veranstaltung/herbst-und-winter-flohmarkt-in-w
+ eidenberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2429979@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T080000Z
+DTEND:20260927T100000Z
+SUMMARY:Flohmarkt Rund ums Kind in Glashütten
+LOCATION:Mehrzwckhalle Glashütten\, Schulstraße 21a\, 95496 Glashütten
+DESCRIPTION:Zeit laut Veranstalter: 10Uhr – 12Uhr\nEintritt: Eintritt fre
+ i\nNach Mädchen und Jungen sortiert Baby\, Mädchen und Jungen Klamotten 
+ bis Gr 176 Spielsachen\, Bücher\, Puzzles\, Lego und playmobil\, Schuhe u
+ nd Schneeanzüge\, Baby Zubehör und vieles mehr Einlass für Schwangere u
+ nd einer Begleitperson ab 9.30Uhr…
+URL:https://www.mainwelle.de/veranstaltung/flohmarkt-rund-ums-kind-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2448345@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T080000Z
+DTEND:20260927T120000Z
+SUMMARY:Flurgottesdienst
+LOCATION:Höflas (bei Weidenberg)\, Görau\, 1
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 14:00\nEintritt: Eintritt Fre
+ i
+URL:https://www.mainwelle.de/veranstaltung/flurgottesdienst/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2329929@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T080000Z
+DTEND:20260927T120000Z
+SUMMARY:Nachbarschafts-Flohmarkt Goldkronach
+LOCATION:Wohngebiet Goldkronach\, Peuntgasse\, Schlesienstraße\, Am Altenb
+ aum u.w.
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 14:00\nEintritt: Eintritt fre
+ i\nBesucht unseren gemütlichen Nachbarschafts-Flohmarkt mit ca. 20 Ausste
+ llern. Es sind viele Schätze dabei\, für Groß & Klein: Deko\, Haushalts
+ artikel\, Kleidung sowie Kinder- und Spielsachen. Fürs leibliche Wohl ist
+  gesorgt\, mit Kaffee & Kuchen an einigen Ständen.
+URL:https://www.mainwelle.de/veranstaltung/nachbarschafts-flohmarkt-goldkro
+ nach/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2443104@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T080000Z
+DTEND:20260927T140000Z
+SUMMARY:Stadtteilflohmarkt Saas
+LOCATION:Saas\, 95447 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 10.00 – 16.00\nEintritt: EINTRITT FRE
+ I\nSpaziere von Hof zu Hof und entdecke tolle Schnäppchen direkt vor den 
+ Haustüren der Nachbarschaft. 👗 Kleidung & Kindersachen 🧸 Spielzeug 
+ & Spiele 🛋️ Möbel & Deko 🔮 Schätze & Raritäten 📍 Wo? Überal
+ l in der Saas\, Bayreuth (Achtet auf bunte Luftballons an den Toren!).Komm
+ t vorbei\, schlendert durch die Straßen und geht auf Schatzsuche. Wir…
+URL:https://www.mainwelle.de/veranstaltung/stadtteilflohmarkt-saas/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2448834@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T080000Z
+DTEND:20260927T130000Z
+SUMMARY:Tag der Autobahn in Bayreuth
+LOCATION:Autobahn GmbH Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 10 – 15\nEin Blick hinter die Kulisse
+ n der Autobahn GmbH – Außenstelle Bayreuth! Wer schon immer einmal wiss
+ en wollte\, was die Autobahn GmbH eigentlich so macht\, bekommt am Wochene
+ nde die Gelegenheit dazu. Die Außenstelle Bayreuth öffnet am Sonntag\, 2
+ 7. September 2026\, von 10 – 15 Uhr ihre Türen auf dem Gelände in der 
+ Spitzwegstraße 45 in Bayreuth.
+URL:https://www.mainwelle.de/veranstaltung/tag-der-autobahn-in-bayreuth/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2420973@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T100000Z
+DTEND:20260927T160000Z
+SUMMARY:Herbstmarkt am Culmberg
+LOCATION:Culmberger Bergstubn\, Culmberg 5 \, 95473 Haag
+DESCRIPTION:Zeit laut Veranstalter: 12.00 – 18.00\nEintritt: Eintritt fre
+ i
+URL:https://www.mainwelle.de/veranstaltung/herbstmarkt-am-culmberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2430270@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T110000Z
+DTEND:20260927T150000Z
+SUMMARY:Dorfflohmarkt in Heidenaab
+LOCATION:Haidenaab \, 95469 Speichersdorf
+DESCRIPTION:Zeit laut Veranstalter: 13:00 – 17:00\nEintritt: Eintritt fre
+ i\nObst- und Gartenbauverein Heidenaab Göppmannsbühl Dorfflohmarkt in Ha
+ idenaab Am Sonntag\, 27. September 2026\, 🕐 13–17 Uhr 🛍️ 25 Floh
+ marktstände im ganzen Dorf ☕ Kaffee\, Kuchen\, Getränke und Brotzeiten
+  in der Jugendstätte 🅿️ Ausgeschilderte Parkplätze 🚆 Anreise mit
+  der Bahn möglich Kommt vorbei\, schlendert durch Haidenaab und entdeckt 
+ das eine oder andere Schnäppchen. Für das leibliche…
+URL:https://www.mainwelle.de/veranstaltung/dorfflohmarkt-in-heidenaab/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2431461@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T120000Z
+DTEND:20260927T140000Z
+SUMMARY:Kaffeeklatsch der Reservistenkameradschaft Bayreuth
+LOCATION:Reservistenkameradschaft Bayreuth\, Mozartstraße 16\, 95448 Bayre
+ uth
+DESCRIPTION:Zeit laut Veranstalter: 14.00 Uhr – 16.00 Uhr\nEintritt: Eint
+ ritt frei\nDie Reservistenkameradschaft Bayreuth bietet wieder frisch gebr
+ ühten Kaffee\, selbstgebackene Kuchen und Torten\, Eiskaffee und erfrisch
+ enden Aperol\, auch alkoholfrei\, an. Lasst uns wieder alle zusammen einen
+  schönen Sonntag Nachmittag erleben. Es freut sich auf euren Besuch die R
+ eservistenkameradschaft Bayreuth.
+URL:https://www.mainwelle.de/veranstaltung/kaffeeklatsch-der-rk-bayreuth/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2453763@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T120000Z
+DTEND:20260927T150000Z
+SUMMARY:Rundum gepflegt - Demenz verstehen
+LOCATION:Klinik Hohe Warte Therapiegebäude\, Hohe Warte 8 95445 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 14:00 – 17:00\nEintritt: Eintritt fre
+ i\nDer Vortrag beginnt um 14:15 Uhr\, anschließend gibt es die Möglichke
+ it den Demenzsimulator auszuprobieren.
+URL:https://www.mainwelle.de/veranstaltung/rundum-gepflegt-demenz-verstehen
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2452872@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T140000Z
+DTEND:20260927T190000Z
+SUMMARY:Discofox am Stadtstrand Bayreuth
+LOCATION:Stadtstrand am Röhrensee\, Pottensteiner Str 5\, 90447 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 16:00 – 21:00\nIhr könnt zu Discofox
+ musik (aktuelle internationale und deutsche Titel) sowie zu Salsa-\, Bacha
+ tta- und Freestyletiteln tanzen. Wer keinen Tanzpartner hat\, findet am Si
+ ngletreffpunkt jederzeit Tanzwillige. In der Zeit von 16 – 16:45 Uhr fin
+ det ein kostenloser Discofox Tanzkurs für Tänzer/-innen statt\,die über
+  Grundkenntnisse verfügen. Die Veranstaltung findet nur bei trockenem Wet
+ ter statt. Denkt bei der…
+URL:https://www.mainwelle.de/veranstaltung/discofox-am-stadtstrand-bayreuth
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2447304@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T150000Z
+DTEND:20260927T160000Z
+SUMMARY:Betthupferlkirche in Bayreuth
+LOCATION:Lutherkirche\, Bodenseering 95\, 95445 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 17:00 – 18:00\nEintritt: Eintritt fre
+ i\nWart ihr schon einmal bei der Betthupferlkirche in der Lutherkirche? Ne
+ in? Dann wird es Zeit! Freut euch auf eine Entdeckertour mit funkelnden Sc
+ hätzen\, fröhliche Mitmachlieder\, lustige Sockenpuppen und viele schön
+ e Momente zum Mitmachen. Die Betthupferlkirche richtet sich besonders an K
+ inder im Kindergarten und Grundschulalter und deren Familien\, aber auch a
+ lle anderen Interessierten sind herzlich willkommen.
+URL:https://www.mainwelle.de/veranstaltung/betthupferlkirche-in-bayreuth/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2445525@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T150000Z
+DTEND:20260927T170000Z
+SUMMARY:Konzert: "Lieder der Leidenschaft" mit Andy Lang
+LOCATION:Evang.-Luth. Kirche St. Michael am Gurtstein
+DESCRIPTION:Zeit laut Veranstalter: 17:00\nEintritt: Eintritt frei\nDer bek
+ annte Songpoet\, Harfenist und Pfarrer Andy Lang wird begleitet von zwei w
+ undervollen Klangbegleiterinnen: Monika Romanovska\, Geigengenie und Mitgl
+ ied der Prager Symphoniker und Sibylle Friz\, die sowohl für die erdigen 
+ Töne an ihrem Cello als auch die silberhellen an verschiedenen Blockflöt
+ en und der Querflöte sorgt. Damit bietet Andy Lang erstmalig in der Regio
+ n ein völlig…
+URL:https://www.mainwelle.de/veranstaltung/konzert-lieder-der-leidenschaft-
+ mit-andy-lang/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2445096@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:A-capella Konzert "Innige Lieder zur Nacht"
+LOCATION:St. Hedwig Bayreuth\, Schwindstraße 14a\, 95447 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 19:00\nEintritt: Eintritt frei
+URL:https://www.mainwelle.de/veranstaltung/a-capella-konzert-innige-lieder-
+ zur-nacht/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2451246@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261004
+SUMMARY:Schrollengässer Kerwa in Bayreuth
+LOCATION:Bäckerei Lang\, Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: jeweils ab 17 Uhr\nRund um die Bäckere
+ i Lang in der Jean-Paul-Straße wird wieder die Schrollengässer Kerwa gef
+ eiert. An fünf Tagen erwartet die Besucher eine Mischung aus fränkischer
+  Kerwa-Tradition\, regionalen Spezialitäten\, Musik und geselligem Beisam
+ mensein. Der Name der Veranstaltung ist dabei kein Zufall: Die heutige Jea
+ n-Paul-Straße hieß früher Schrollengasse. Erst im Jahr 1885 wurde die S
+ traße zu Ehren des…
+URL:https://www.mainwelle.de/veranstaltung/schrollengaesser-kerwa-in-bayreu
+ th/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2445477@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20260929T180000Z
+DTEND:20260929T200000Z
+SUMMARY:Doppelkonzert im Kunst- und Kulturhaus Neuneinhalb
+LOCATION:Neuneinhalb
+DESCRIPTION:Zeit laut Veranstalter: 20:00 (Doors)\, 20:15 (Beginn)\nEintrit
+ t: 2Euro. Die Künstler:innen freuen sich über Spenden.\nWir freuen uns e
+ in weiteres Mal darauf\, die Künstlerin mado bei uns im Kunst- und Kultur
+ haus Neuneinhalb zu Gast haben zu dürfen. Mit von der Partie ist diesmal 
+ auch der Lokalkünstler thomsen\, zusammen werden die zwei einen besondere
+ n Abend im Rahmen unserer dienstäglichen Sübkültür-Reihe kreiieren.
+URL:https://www.mainwelle.de/veranstaltung/doppelkonzert-im-kunst-und-kultu
+ rhaus-neuneinhalb/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2390115@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261002T160000Z
+DTEND:20261002T200000Z
+SUMMARY:Feierliche Einweihung des Prebitzer Gemeindewappens
+LOCATION:Gemeindezentrum Bieberswöhr
+DESCRIPTION:Zeit laut Veranstalter: 18:00 – 22:00\nEintritt: Der Eintritt
+  ist frei\nGemeinde Prebitz…
+URL:https://www.mainwelle.de/veranstaltung/feierliche-einweihung-des-prebit
+ zer-gemeindewappens/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2431683@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261002T170000Z
+DTEND:20261002T210000Z
+SUMMARY:Lange Nacht der Demokratie
+LOCATION:Kulturquartier Bayreuth\, Opernstraße 12
+DESCRIPTION:Zeit laut Veranstalter: 19:00 – 23:00\nEintritt: Eintritt fre
+ i\nJugendliche und junge Erwachsene erwartet ein abwechslungsreicher Abend
+  mit Musik\, Poetry Slam\, Kunst und Möglichkeiten zum Mitmachen und Mitd
+ iskutieren. Musikalisch wird es unter anderem mit der Bamberger Hip-Hop-Fo
+ rmation Bambägga\, die gemeinsam mit dem Bayreuther Künstler Sven Weiß 
+ auftritt. Außerdem ist BT Kiosk mit einem Auftritt und DJ-Set dabei. Beim
+  Poetry Slam zum Thema Demokratie\, moderiert…
+URL:https://www.mainwelle.de/veranstaltung/lange-nacht-der-demokratie/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2449377@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261002T170000Z
+DTEND:20261002T190000Z
+SUMMARY:Preisschafkopf beim TSV Donndorf-Eckersdorf
+LOCATION:Sportheim TSV Donmdorf / Eckersdorf\, Am Schloßpark
+DESCRIPTION:Zeit laut Veranstalter: 19:00 Uhr – offen\nEintritt: Startgeb
+ ühr 10€\nprivat Traditioneller Preisschafkopf des TSV Donndorf / Eckers
+ dorf. Beginn ist um 19:00 Uhr und für diejenigen die sich vorher stärken
+  möchten\, ist das Sportheim ab 17:00 Uhr geöffnet. Es gibt Schnitzel mi
+ t hausgemachten Kartoffelsalat von unserer Gitti und div. Fingerfoot .
+URL:https://www.mainwelle.de/veranstaltung/moderieren-preisschafkopf/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2447301@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261002T173000Z
+DTEND:20261002T190000Z
+SUMMARY:Konzert mit Bella Donna in Meyernberg
+LOCATION:Katharina-von-Bora-Kirche\, Meyernberger Str. 17\, 95447 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 19:30 – 21:00\nEintritt: Eintritt fre
+ i\nMusik\, die unter die Haut geht – Eine Reise durch Klangwelten zwisch
+ en Klassik\, Folk\, Rock und Darkwave: Bella Donna verbindet eindrucksvoll
+ e Stimmen mit orchestraler Klangfülle und einer Mixtur aus akustischen In
+ strumenten\, rockigen Gitarren und Synthesizern zu einem besonderen Musike
+ rlebnis. Mal kraftvoll und mitreißend\, mal romantisch und nachdenklich\,
+  erzählen die Songs von Sehnsucht\, Hoffnung und den…
+URL:https://www.mainwelle.de/veranstaltung/konzert-mit-bella-donna-in-meyer
+ nberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2414958@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Kommissionierter Kinderbasar Weißenohe
+LOCATION:Dorfhauser Str.9\, 91367 Weißenohe
+DESCRIPTION:Zeit laut Veranstalter: Sa:17:30-20:00 – So:9:30-11:00\nEintr
+ itt: Eintritt frei\nElternbeirat & Förderverein der Kita Lillachtal Mit K
+ uchen- & Fingerfood an beiden Tagen…
+URL:https://www.mainwelle.de/veranstaltung/kommissionierter-kinderbasar-wei
+ ssenohe/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2451852@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261003T170000Z
+DTEND:20261003T190000Z
+SUMMARY:Weinfest in Creußen
+LOCATION:Kath. Jugendheim Creussen\, Kolmhofstr. Creussen
+DESCRIPTION:Zeit laut Veranstalter: 19 Uhr\nEintritt: Eintritt frei\nprivat
+ …
+URL:https://www.mainwelle.de/veranstaltung/weinfest-in-creussen/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2438604@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261004T080000Z
+DTEND:20261004T120000Z
+SUMMARY:Dorfflohmarkt in Obernsees
+LOCATION:Ehemalige Maisel Brauerei Obernsees\, Marktplatz
+DESCRIPTION:Zeit laut Veranstalter: 10.00 – 14.00\nEintritt: Eintritt fre
+ i
+URL:https://www.mainwelle.de/veranstaltung/dorfflohmarkt-in-obernsees/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2401806@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261004T080000Z
+DTEND:20261004T140000Z
+SUMMARY:FichtelEvents X Sportwagencharity e.V. - SeasonClosing
+LOCATION:Krug Bräu - Breitenlesau\, Breitenlesau 1\, 91344 Waischenfeld
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 16:00\nEintritt: Eintritt fre
+ i\nEin würdiger Saisonabschluss für Sportwagenfreunde und den guten Zwec
+ k. Am 04. Oktober 2026 laden die Sportwagencharity e.V. und FichtelEvents 
+ zum gemeinsamen Saisonabschluss bei der Krug-Bräu in Breitenlesau ein. Zu
+ m Ausklang der Saison treffen sich Sportwagenfahrer und -begeisterte\, um 
+ ihre Leidenschaft zu teilen und gleichzeitig kranke\, benachteiligte und h
+ ilfsbedürftige Kinder zu unterstützen. Besucher erwartet eine beeindruck
+ ende…
+URL:https://www.mainwelle.de/veranstaltung/fichtelevents-x-sportwagencharit
+ y-e-v-seasonclosing/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2451339@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261004T080000Z
+DTEND:20261004T150000Z
+SUMMARY:Tag der offenen Tür bei der Feuerwache Bayreuth
+LOCATION:An der Feuerwache\, Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 10 – 17
+URL:https://www.mainwelle.de/veranstaltung/tag-der-offenen-tuer-in-der-feue
+ rwache-bayreuth/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2449110@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261004T083000Z
+DTEND:20261004T103000Z
+SUMMARY:Kreiserntedankfest
+LOCATION:landwirtschaftliche Lehranstalten des Bezirks Oberfranken
+DESCRIPTION:Zeit laut Veranstalter: ab 10.30 Uhr\nDie meiste Arbeit auf den
+  Feldern ist erledigt und die Erntekronen sind kunstvoll gebunden: das ist
+  die Zeit\, um gemeinsam zu feiern und für die Ernte zu danken. Der Bezir
+ k Oberfranken lädt am 4. Oktober zusammen mit dem Landjugend-Kreisverband
+  Bayreuth zum traditionellen Erntedankfest in die Landwirtschaftlichen Leh
+ ranstalten nach Bayreuth ein. Hier erleben die Besucher Landwirtschaft\,
+ …
+URL:https://www.mainwelle.de/veranstaltung/kreiserntedankfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2435919@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261004T083000Z
+DTEND:20261004T093000Z
+SUMMARY:Kurparkkonzert "Sax´n Die" in Pottenstein
+LOCATION:Kurpark Pottenstein\, Am Kurzentrum 3\, 91278 Pottenstein
+DESCRIPTION:Zeit laut Veranstalter: 10:30 – 11:30\nEintritt: Eintritt fre
+ i\nDas Saxophonensemble „Sax´n Die“ (sieben Pottensteiner Powermädel
+ s) gastieren im Pottensteiner Kurpark.
+URL:https://www.mainwelle.de/veranstaltung/kurparkkonzert-saxn-die-in-potte
+ nstein/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2426355@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Herbstbasar in der Mehrzweckhalle Kirchahorn
+LOCATION:Mehrzweckhalle Kirchahorn\, Kirchahorn 53\, 95491 Ahorntal-Kirchah
+ orn
+DESCRIPTION:Zeit laut Veranstalter: 13:00 – 15:00\nEintritt: Frei
+URL:https://www.mainwelle.de/veranstaltung/herbstbasar-in-der-mehrzweckhall
+ e-kirchahorn/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2440017@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:Tierheimflohmarkt
+LOCATION:Tierheim Bayreuth\, Jakobstraße 120\, 95447 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 14:00 – 16:00\nEintritt: Eintritt fre
+ i\nWir laden euch herzlich zu unserem Flohmarkt im Tierheim ein. Ob Tierbe
+ darf oder Alltagsgegenstände – wie immer erwartet euch eine große und 
+ bunte Auswahl zum Stöbern und Entdecken. Vielleicht ist ja auch diesmal w
+ ieder das ein oder andere kleine Schätzchen dabei. Natürlich ist auch f
+ ür das leibliche Wohl gesorgt: Neben Getränken könnt ihr euch…
+URL:https://www.mainwelle.de/veranstaltung/moderieren-tierheimflohmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2435856@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261013
+SUMMARY:Bayreuther Brauhaus Herbstkerwa
+LOCATION:Rotmainhalle Bayreuth\, Hindenburgstr. 1\, 95445 Bayreuth
+DESCRIPTION:Eintritt: Eintritt frei\nVom 9. bis 12. Oktober 2026 lädt das 
+ Bayreuther Brauhaus zur großen Herbstkerwa in die Rotmainhalle ein. Vier 
+ Tage lang erwartet die Besucher bayerische Lebensart mit frisch gezapftem 
+ Bayreuther Urstoff aus dem Steinkrug\, zünftigen Bierzeltschmankerln und 
+ Bierzelt-Livemusik. In Dirndl und Lederhosen wird gemeinsam angestoßen\, 
+ gefeiert und das echte Festzeltgefühl mitten in Bayreuth erlebt. Das Prog
+ ramm…
+URL:https://www.mainwelle.de/veranstaltung/bayreuther-brauhaus-herbstkerwa/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2368173@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:Kirwa Speichersdorf 2026
+LOCATION:Halle von Dienstleistungen Kreutzer\, Kemnather Str. 23\, 95469 Sp
+ eichersdorf
+DESCRIPTION:Zeit laut Veranstalter: 20.00 – 20.00\nHerzliche Einladung zu
+ r Kirwa in Speichersdorf! Auch in diesem Jahr dürfen wir Euch wieder in d
+ er Halle von Dienstleistungen Kreutzer begrüßen! Am Freitag\, dem 09.10.
+ 2026\, wird F.U.C.K die Halle so richtig zum Beben bringen. Den Auftakt in
+  diese Rocknacht macht Sickatrice. Einlass ist ab 20.00 Uhr. 🎙️🎸
+ 🎶🔊🔥 Am Samstag\, dem 10.10.2026\, laden wir dann zur…
+URL:https://www.mainwelle.de/veranstaltung/kirwa-speichersdorf-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2410392@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261009T160000Z
+DTEND:20261009T220000Z
+SUMMARY:Fränkischer Musikkabarett Abend
+LOCATION:Sportheim TSV Donndorf-Eckersdorf
+DESCRIPTION:Zeit laut Veranstalter: 18.00 – 24.00\nEintritt: VVK 12 €. 
+ AK 15 €\nFränkischer Musikkabarett Abend mit dem Franggn-Harry. Vor Beg
+ inn um 20 Uhr\, gibt es fränkische Schmankerl. Wer was Essen möchte soll
+ te also ab 18 Uhr kommen\, da es während der Aufführung kein Essen gibt.
+  Freut euch auf ein musikalisches Schmankerl aus Fränkischer Mundart. Der
+  Franggn- Harry auch besser bekannt unter Harry Davids vom Musikduo Voice 
+ to…
+URL:https://www.mainwelle.de/veranstaltung/fraenkischer-musikkabarett-abend
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2392953@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Mega Basar für die ganze Familie
+LOCATION:Grundschule Gräfenberg\, Am Sportpl.1\, 91322 Gräfenberg
+DESCRIPTION:Eintritt: Eintritt frei\nMega Basar für die ganze Familie: Ins
+ trument\,Bücher\, Schuhe\, Sportartikel\, Spielzeug u.v.m. Mit Kuchenverk
+ auf 🍰…
+URL:https://www.mainwelle.de/veranstaltung/mega-basar-fuer-die-ganze-famili
+ e/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2433981@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261010T070000Z
+DTEND:20261010T100000Z
+SUMMARY:STUKI - BAZAR in Bayreuth
+LOCATION:Tagungszentrum in der Kolpingstraße\, Kolpingstrasse 3-5\, 94444 
+ Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 9:00 Uhr – 12:00 Uhr\nEintritt: Eintr
+ itt frei\nStöbern\,Schnäppchen finden & Schönes für die Kleinen entdec
+ ken! Kommt vorbei – wir freuen uns auf euch Sortierter Flohmarkt rund um
+  Babys\, Kinder und Schwangerschaft (bis Größe 128)…
+URL:https://www.mainwelle.de/veranstaltung/stuki-bazar-in-bayreuth/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2407995@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261010T080000Z
+DTEND:20261010T103000Z
+SUMMARY:Flohmarkt rund ums Kind Eckersdorf
+LOCATION:Grundschule Eckersdorf\, Schulstraße 5\, Eckersdorf
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 12:30\nEintritt: Eintritt fre
+ i
+URL:https://www.mainwelle.de/veranstaltung/flohmarkt-rund-ums-kind-eckersdo
+ rf/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2414964@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261010T080000Z
+DTEND:20261010T110000Z
+SUMMARY:Herbst & Winter Second-Hand-Basar Obertrubach
+LOCATION:Am Sportplatz\, 91286 Obertrubach
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 13:00\nEintritt: Eintritt fre
+ i\nKita St. Marien Obertrubach Mit selbst gebackenen Kuchen.
+URL:https://www.mainwelle.de/veranstaltung/herbst-winter-second-hand-basar-
+ obertrubach/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2451909@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261010T120000Z
+DTEND:20261010T150000Z
+SUMMARY:Freiwilligenmesse im Friedrichsforum
+LOCATION:Friedrichsforum Bayreuth\, Friedrichstraße 19\, 95444 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 14:00 – 17:00\nEintritt: Eintritt fre
+ i\nIhr könnt hier die Vielfalt des ehrenamtlichen Engagements in Bayreuth
+  und der Region kennenlernen. Vereine\, soziale Einrichtungen\, Initiative
+ n und weitere Organisationen stellen sich vor. Dabei zeigen sie auch\, wie
+  vielfältig die Möglichkeiten sind\, sich mit den eigenen Interessen und
+  Fähigkeiten einzubringen. Ihr könnt direkt mit den Ansprechpartnern ins
+  Gespräch kommen\, neue Engagement-Felder entdecken und konkrete…
+URL:https://www.mainwelle.de/veranstaltung/freiwilligenmesse-im-friedrichsf
+ orum/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2454741@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261010T120000Z
+DTEND:20261010T140000Z
+SUMMARY:Herbstflohmarkt "Rund ums Kind" Hummeltal
+LOCATION:Schulturnhalle Hummeltal\, Bayreuther Str. 14\, 95503 Hummeltal
+DESCRIPTION:Zeit laut Veranstalter: 14:00 Uhr / für Schwangere ab 13:30 Uh
+ r – 16:00 Uhr\nEintritt: Eintritt frei\n🧸🍂 Herbst – Flohmarkt Hu
+ mmeltal – Rund ums Kind 🍁 Stöbern\, entdecken\, Schnäppchen machen!
+  Beim Flohmarkt Hummeltal dreht sich alles um Kinder: Kleidung\, Spielzeug
+ \, Bücher\, Baby- und Kinderausstattung sowie viele saisonelle Artikel 
+ 🍂🧥🧤⛷️🛷 und kleine Schätze warten auf neue Besitzer. Über
+  80 Verkäufer bieten gut erhaltene Sachen für Babys\, Kinder und Familie
+ n an – perfekt…
+URL:https://www.mainwelle.de/veranstaltung/herbstflohmarkt-rund-ums-kind-hu
+ mmeltal/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2415243@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261010T150000Z
+DTEND:20261010T163000Z
+SUMMARY:Bayernliga-Wettkampf Olympisches Gewichtheben
+LOCATION:CrossFit Bayreuth\, Bernecker Str. 17\, 95448 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 17:00 – 18:30\nEintritt: EINTRITT FRE
+ I\nAthletik-Club Bayreuth Der Athletik-Club Bayreuth lädt zum ersten Baye
+ rnliga-Wettkampf der Saison im Olympischen Gewichtheben ein! In den Räuml
+ ichkeiten von CrossFit Bayreuth trifft unsere Mannschaft auf den Absteiger
+  der 2. Bundesliga TB 03 Roding II und freut sich auf einen spannenden Wet
+ tkampfabend. Beim Olympischen Gewichtheben geht es um weit mehr als pure K
+ raft: Technik\, Präzision\, Nervenstärke…
+URL:https://www.mainwelle.de/veranstaltung/bayernliga-wettkampf-olympisches
+ -gewichtheben/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2435853@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261010T170000Z
+DTEND:20261010T190000Z
+SUMMARY:DIE JUNGEN TENÖRE
+LOCATION:Trebgast St. Johannes Kirche\, Trebgast Bergstraße
+DESCRIPTION:Zeit laut Veranstalter: 19.00 Uhr – 21.00 Uhr\nEintritt: VVK 
+ 21\n275 Jahre Kirchweihe in Trebgast mit Abschlusskonzert der „Die Junge
+ n Tenöre“ 10.Okt.2026\, 19 Uhr St. Johannes Kirche Trebgast Jetzt Karte
+ n im VVK sichern unter https://dienaturbuehne.de/produkt/die-jungen-tenoer
+ e-2026-10-10/ Die Jungen Tenöre entführen ihr Publikum mit der „Unplug
+ ged Crossover der Extraklasse Tour“ in eine intime Klangwelt. Diese exkl
+ usive Tour verspricht Musikliebhabern eine unvergleichliche Gelegenheit\, 
+ die beeindruckende Kunst der Jungen…
+URL:https://www.mainwelle.de/veranstaltung/die-jungen-tenoere/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2437779@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261010T170000Z
+DTEND:20261010T200000Z
+SUMMARY:JAZZ Benefiz-Konzert 60 Jahre Erlöserkirche Altstadt mit der Band 
+ "The Real Bookstones"
+LOCATION:Gaststätte Becher\, Bechersaal\, St.-Nikolausstr. 12
+DESCRIPTION:Zeit laut Veranstalter: 19:00 – 22:00\nEintritt: Eintritt fre
+ i\, um Spenden erbeten
+URL:https://www.mainwelle.de/veranstaltung/jazz-benefiz-konzert-60-jahre-er
+ loeserkirche-altstadt-mit-der-band-the-real-bookstones/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2420235@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261011T080000Z
+DTEND:20261011T130000Z
+SUMMARY:Hussengut Flohmarkt
+LOCATION:Wohngebiet Hussengut Bayreuth\, Hussengut\, 95445 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 15:00\nEintritt: Eintritt fre
+ i\nAm Sonntag laden die Bewohner im Stadtteil Hussengut in Bayreuth zum Ga
+ ragenflohmarkt ein. Angeboten wird alles aus dem Haushalt\, Keller\, Garte
+ n oder der Garage\, was einen neuen Besitzer oder Besitzerin sucht: Spielz
+ eug\, Kleidung\, Schuhe\, Sportgeräte\, Haushaltsgeräte\, Antiquitäten\
+ , Musikinstrumente\, Möbel und vieles mehr. Wir wünschen viel Spaß beim
+  Bummel\, Stöbern und Schnäppchen jagen!
+URL:https://www.mainwelle.de/veranstaltung/hussengut-flohmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2447043@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261011T080000Z
+DTEND:20261011T100000Z
+SUMMARY:Second Hand Basar Kirchenbirkig
+LOCATION:Schützenhaus Kirchenbirkig\, St. Johannes Str. 10\, 91278 Pottens
+ tein
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 12:00\nEintritt: Eintritt fre
+ i
+URL:https://www.mainwelle.de/veranstaltung/second-hand-basar-kirchenbirkig/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2435922@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261011T083000Z
+DTEND:20261011T093000Z
+SUMMARY:Kurparkkonzert "Zünftig Böhmischen" in Pottenstein
+LOCATION:Kurpark Pottenstein\, Am Kurzentrum 3\, 91278 Pottenstein
+DESCRIPTION:Zeit laut Veranstalter: 10:30 – 11:30\nEintritt: Eintritt fre
+ i\nDie „Zünftig Böhmischen“ gastieren im Pottensteiner Kurpark – e
+ ine Stunde Blasmusik in Perfektion.
+URL:https://www.mainwelle.de/veranstaltung/kurparkkonzert-zuenftig-boehmisc
+ hen-in-pottenstein/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2438622@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261011T110000Z
+DTEND:20261011T160000Z
+SUMMARY:321 Meins wird Deins - Fashion Flohmarkt in Pegnitz
+LOCATION:Wiesweiherhalle Pegnitz\, Wiesweiherweg \, 91257 Pegnitz
+DESCRIPTION:Zeit laut Veranstalter: 13:00 – 18:00\nEintritt: EINTRITT FRE
+ I\nAm 11.10.26 verwandelt sich die Wiesweiherhalle in Pegnitz in einen gro
+ ßen Fashion Flohmarkt mit vielen Verkaufsständen. Viele Modeliebhaber bi
+ eten dort Kleidung\, Schuhe\, Taschen und Accessoires an – zum Stöbern\
+ , Entdecken und neue Lieblingsteile finden!. Schau vorbei und finde dein n
+ eues Lieblingsstück! 321 Meins wird Deins wird hier geliebt und gelebt. F
+ ür das leibliche Wohl ist…
+URL:https://www.mainwelle.de/veranstaltung/321-meins-wird-deins-fashion-flo
+ hmarkt-in-pegnitz/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2446251@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:Herbst- und Winterbasar in Trockau
+LOCATION:Im Pfarrzentrum Trockau\, Schulweg 3
+DESCRIPTION:Zeit laut Veranstalter: 14.00 – 16.00\nEintritt: -\nAnmeldung
+  und Verkäufernummern an basar-kigatrockau@web.de…
+URL:https://www.mainwelle.de/veranstaltung/herbst-und-winterbasar-in-trocka
+ u/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2428737@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261011T150000Z
+DTEND:20261011T163000Z
+SUMMARY:Festliches Kirchenkonzert der Jugendbergmannskapelle Pegnitz
+LOCATION:Pegnitz\, Herz Jesu Kirche\, Pfarrer-Dr.-Vogl-Str. 2\, Pegnitz
+DESCRIPTION:Zeit laut Veranstalter: 17:00 – 18:30\nEintritt: Einritt frei
+  - Spenden willkommen\nFestliches Konzert der Jugendbergmannskapelle in de
+ r Herz-Jesu Kirche Pegnitz Am Sonntag\, 11.10.2026\, um 17.00 Uhr\, lädt 
+ die Jugendbergmannskapelle wieder zum festlichen Kirchenkonzert in die Her
+ z-Jesu-Kirche Pegnitz ein. Die Musiker und der musikalische Leiter Jürgen
+  Kratochvill haben auch heuer wieder ein vielseitiges und feierliches Prog
+ ramm mit sowohl ruhigen Stücken als auch schwungvollen Rhythmen zusammeng
+ estellt. So wird…
+URL:https://www.mainwelle.de/veranstaltung/festliches-kirchenkonzert-der-ju
+ gendbergmannskapelle-pegnitz/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2453772@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261011T160000Z
+DTEND:20261011T180000Z
+SUMMARY:Benefizkonzert mit BlechBoXX Brass & Mundart
+LOCATION:Reichshof (Foyer)
+DESCRIPTION:Zeit laut Veranstalter: 18 Uhr\nEintritt: Freier Eintritt\npriv
+ at…
+URL:https://www.mainwelle.de/veranstaltung/benefizkonzert-mit-blechboxx-bra
+ ss-mundart/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2437926@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261011T160000Z
+DTEND:20261011T180000Z
+SUMMARY:BlechboXX Benefizkonzert
+LOCATION:Reichshof Foyer\, Maximilianstr. 28\, 95444 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 18:00 – 20:00\nEintritt: "Eintritt fr
+ ei"\nBlechBoXX Brass und Mundart\, gibt anläßlich der Hospizwoche zum 35
+ jährigen Jubiläum des Hospizvereins Bayreuth e.V. ein Benefizkonzert im 
+ Foyer des Reichshof Bayreuth…
+URL:https://www.mainwelle.de/veranstaltung/blechboxx-benefizkonzert/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2413644@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261017T153000Z
+DTEND:20261017T190000Z
+SUMMARY:Shop&Spritz Mädelsbasar
+LOCATION:Bräuwerck Neudrossenfeld\, Marktplatz 2A
+DESCRIPTION:Zeit laut Veranstalter: 17:30 – 21:00\nEintritt: EINTRITT FRE
+ I\nEntdecke eine tolle Auswahl an Kleidung\, Accessoires und Schuhen für 
+ Frauen\, die eine neue Besitzerin suchen und schon bald zu deinen neuen Li
+ eblingsstücken werden könnten. Außerdem gibt es einen exklusiven Mädel
+ sbasar-Spritz (auch alkoholfrei). Nur für euch! VERKÄUFER INFORMATIONEN:
+  • Anmeldung ab dem 20. September 2026 • Standgebühr: 15 Euro • Pro
+  Buchung werden ein Tisch…
+URL:https://www.mainwelle.de/veranstaltung/shopspritz-maedelsbasar/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2369736@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261017T160000Z
+DTEND:20261017T220000Z
+SUMMARY:Weinfest in Emtmannsberg
+LOCATION:Gemeindezentrum in Emtmannsberg\, Dorfstraße
+DESCRIPTION:Zeit laut Veranstalter: 18:00 – 0:00\nEintritt: Eintritt frei
+URL:https://www.mainwelle.de/veranstaltung/weinfest-in-emtmannsberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2443065@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261017T170000Z
+DTEND:20261017T183000Z
+SUMMARY:Herbstkonzert Klassik Meets Klassiker
+LOCATION:Katholische Kirche Mariä Geburt\, Volsbach 22\, 95491 Ahorntal
+DESCRIPTION:Zeit laut Veranstalter: 19:00 – 20:30\nEintritt: Eintritt\nUn
+ ter dem verheißungsvollen Titel „Klassik meets Klassiker“ lädt der r
+ enommierte Konzertchor Coloured Black zu einem besonderen musikalischen Ab
+ end ein. Sie erwartet ein abwechslungsreiches und anspruchsvolles Programm
+ \, das – wie der Titel bereits verrät – musikalische Brücken schläg
+ t. Der Chor spannt einen faszinierenden Bogen von traditionellen klassisch
+ en Werken hin zu unvergesslichen „Klassikern“ der neueren Musikgeschic
+ hte. Mit…
+URL:https://www.mainwelle.de/veranstaltung/moderieren-herbstkonzert-klassik
+ -meets-klassiker/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2431926@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Konzert mit dem Chor Coloured Black
+LOCATION:Pfarrkirche Volsbach\, 95491 Ahorntal
+DESCRIPTION:Zeit laut Veranstalter: 19 Uhr – 21 Uhr\nEintritt: Eintritt f
+ rei
+URL:https://www.mainwelle.de/veranstaltung/konzert-mit-dem-chor-coloured-bl
+ ack/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2414955@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261018T080000Z
+DTEND:20261018T100000Z
+SUMMARY:Kinderbasar Pottenstein
+LOCATION:Pottenstein Graf-Botho-Schule\, Bayreuther Berg 7\, 91278 Pottenst
+ ein
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 12:00\nEintritt: Eintritt fre
+ i\nFörderverein Kindergärten Pottenstein Das mitbringen von Taschen/Ruck
+ säcke/Kinderwagen usw. ist nicht erwünscht. Sie erhalten von uns eine Ei
+ nkaufstasche. Mit selbstgemachten Kuchen\, Torten & Muffin. 🍰🧁…
+URL:https://www.mainwelle.de/veranstaltung/kinderbasar-pottenstein/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2435946@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261018T083000Z
+DTEND:20261018T093000Z
+SUMMARY:Kurparkkonzert Pottenstein
+LOCATION:Kurpark Pottenstein\, Am Kurzentrum 3\, 91278 Pottenstein
+DESCRIPTION:Zeit laut Veranstalter: 10:30 – 11:30\nEintritt: Eintritt fre
+ i\nDie Trachtenkapelle Hohenmirsberg spielt eine Stunde Blasmusik im Potte
+ nsteiner Kurpark…
+URL:https://www.mainwelle.de/veranstaltung/kurparkkonzert-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2348838@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:80 Jahre SV Bavaria Waischenfeld
+LOCATION:Sport- und Bürgerhalle Waischenfeld\, Sport- und Bürgerhalle\, B
+ ischof-Nausea-Platz\, 91344 Waischenfeld
+DESCRIPTION:Eintritt: Eintritt frei
+URL:https://www.mainwelle.de/veranstaltung/80-jahre-sv-bavaria-waischenfeld
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2119212@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261023T163000Z
+DTEND:20261023T210000Z
+SUMMARY:Grappa-Whisky Dinner im Schloss Thurnau
+LOCATION:Schloss Thurnau\, Marktplatz 1\, 95349 Thurnau
+DESCRIPTION:Zeit laut Veranstalter: 18.30 – 23.00\nEintritt: 99\,00€\nE
+ rleben Sie einen genussvollen Abend der besonderen Art: Unser exklusives G
+ rappa-Whisky-Dinner entführt Sie in die faszinierende Welt edler Destilla
+ te und fein abgestimmter Kulinarik. Am 23. Oktober 2026 ab 18:30 Uhr erwar
+ tet Sie ein exquisit komponiertes 4-Gang-Menü\, bei dem jeder Gang harmon
+ isch mit erlesenen Grappa- und Whisky-Noten veredelt wird. Freuen Sie sich
+  auf kreative Geschmackskombinationen –…
+URL:https://www.mainwelle.de/veranstaltung/grappa-whisky-dinner-im-schloss-
+ thurnau/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2410029@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:IndustrieKlänge: Kultur. Wissenschaft. Innovation.
+LOCATION:Neue Materialien Bayreuth GmbH\, Gottlieb-Keim-Str. 60\, 95448 Bay
+ reuth
+DESCRIPTION:Zeit laut Veranstalter: 19:00 – 21:00\nEintritt: Eintritt fre
+ i\nMit „IndustrieKlänge“ entsteht eine besondere Verbindung von Kultu
+ r\, Wissenschaft und Innovation. Das Blasorchester der Städtischen Musiks
+ chule Bayreuth verwandelt das Werkzeugzentrum der Neuen Materialien Bayreu
+ th GmbH in einen außergewöhnlichen Konzertsaal.
+URL:https://www.mainwelle.de/veranstaltung/industrieklaenge-kultur-wissensc
+ haft-innovation/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2436555@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261024T080000Z
+DTEND:20261024T100000Z
+SUMMARY:Tag der offenen Tür in der Kita Heilig Geist
+LOCATION:Kath. Kindergarten Hl. Geist\, Hugenottenstr. 14 95448 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 12:00\nEintritt: Eintritt fre
+ i\nTag der offenen Tür im Kath. Kindergarten Hl. Geist in der Hugenottens
+ tr. 14\, 95448 Bayreuth Schauen Sie vorbei\, lernen Sie uns kennen und ent
+ decken Sie unsere Einrichtung! Wir laden alle interessierten Familien\, El
+ tern\, Kinder und Angehörigen herzlich zu unserem Tag der offenen Tür ei
+ n. An diesem Tag haben Sie die Möglichkeit\, unsere Räumlichkeiten kenne
+ nzulernen\, einen…
+URL:https://www.mainwelle.de/veranstaltung/tag-der-offenen-tuer-in-der-kita
+ -heilig-geist/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2436384@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261024T110000Z
+DTEND:20261024T150000Z
+SUMMARY:Rugby Try-Out
+LOCATION:Vereinsgelände Bayreuther Turnerschaft v. 1861 e.V.\, Am Mühlgra
+ ben 7
+DESCRIPTION:Zeit laut Veranstalter: 13:00 Uhr – 17:00 Uhr\nEintritt: Eint
+ ritt frei\nZu Beginn der neuen Saison suchen wir wie immer motivierte Kids
+  und dieses Jahr vor allem Erwachsene\, die Lust am Rugby-Sport haben bzw.
+  bekommen wollen. Da dies idealerweise durch reale Erfahrungen und Kontakt
+ e mit Ball und Spielern erfolgt\, laden wir daher zu unserem Ersten und Ei
+ nzigen Try-Out für 2026. Alle Rugby-Begeisterten (und jene\, die es…
+URL:https://www.mainwelle.de/veranstaltung/rugby-try-out/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2358966@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261025T090000Z
+DTEND:20261025T110000Z
+SUMMARY:Herbst-/Winter-Basar
+LOCATION:Kinderschloss Regenbogen\, Schloßstr. 39
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 12:00\nEintritt: ---
+URL:https://www.mainwelle.de/veranstaltung/herbst-winter-basar/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2407899@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261103T173000Z
+DTEND:20261103T183000Z
+SUMMARY:Ausstellung "Der leise Blick"
+LOCATION:Gemeindehaus Bayreuth St. Georgen\, Hinter der Kirche 1b\, 95448 B
+ ayreuth
+DESCRIPTION:Zeit laut Veranstalter: 18.30 – 19.30\nEintritt: Eintritt fre
+ i!\nAm Dienstag ist im Gemeindehaus St. Georgen die Vernissage zur Fotoaus
+ stellung „Der leise Blick“ mit Fotokunst von Friederike Lippert. Unter
+  dem Motto „Lichterglanz und Farbentanz“ sind kleine magische Momente 
+ zum Festhalten\, Anhalten und Innehalten zu bestaunen.
+URL:https://www.mainwelle.de/veranstaltung/ausstellung-der-leise-blick/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2181192@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261108
+SUMMARY:"JEDERMANN" im Friedrichsforum
+LOCATION:Friedrichsforum Bayreuth
+DESCRIPTION:Eintritt: Tickets ab 49 Euro\nNach zwei erfolgreichen Jahren im
+  Reichshof wird der „JEDERMANN“ in diesem Jahr wieder nach Bayreuth zu
+ rückkehren. Als besonderes Highlight finden die Aufführungen dieses Jahr
+  im Friedrichsforum statt. Die Aufführungen sind am 5.\, 6. und 7. Novemb
+ er 2026.
+URL:https://www.mainwelle.de/veranstaltung/jedermann-im-friedrichsforum/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2427414@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lion Theater Creußen - "Richtig g`lacht - glücklich g`macht"
+LOCATION:Creußen\, Kolmhofstr. 6 ( Katholisches Jugendheim )
+DESCRIPTION:Zeit laut Veranstalter: 19.30 Uhr – ca. 22.30 Uhr\nEintritt: 
+ 14\,- Euro\nLustiger Abend mit vielen Sketchen. Termine 6.11./7.11./13.11.
+  und 14.11.26…
+URL:https://www.mainwelle.de/veranstaltung/lion-theater-creussen-richtig-gl
+ acht-gluecklich-gmacht/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2442708@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261115
+SUMMARY:Theater: Kaufhaus in Trouble- Ein Dreiakter von Winnie Abel
+LOCATION:Notenbank Streitau\, Tennersreuther Straße 1\, 95482 Gefrees
+DESCRIPTION:Zeit laut Veranstalter: 18:00 – 21:00\nEintritt: 12 Euro\nIm 
+ Kaufhaus Dickeschanz herrscht gähnende Leere. Fast alle shoppen online vo
+ n zu Hause aus. Und kommen sie doch mal ins Kaufhaus\, dann werden dort me
+ hr Geschäfte mit der Putzkraft (Sylvia Palazcios) auf der Kundentoilette 
+ gemacht als im Laden. Jetzt soll eine knallharte Unternehmensberaterin (Ma
+ nuela Exner)mit Assistenz (Thomas Backasch) kommen\, alles auf den Prüfst
+ and stellen und…
+URL:https://www.mainwelle.de/veranstaltung/theater-kaufhaus-in-trouble-ein-
+ dreiakter-von-winnie-abel/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2407896@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261107T160000Z
+DTEND:20261107T200000Z
+SUMMARY:Nacht der Klänge in der Ordenskirche
+LOCATION:Ordenskirche Bayreuth St. Georgen\, St. Georgen 56\, 95448 Bayreut
+ h
+DESCRIPTION:Zeit laut Veranstalter: 17.00 – 21.00\nEintritt: Eintritt fre
+ i!\nDie Kantorei Bayreuth St. Georgen und ihr Leiter KMD Michael Lippert l
+ aden zu einer Nacht der Klänge in die Ordenskirche ein. Euch erwartet Bl
+ äsermusik vom Posaunen-chor \, eine meditative Andacht und musikalische B
+ egleitung durch das Kammermusikensemble „Con brio“.
+URL:https://www.mainwelle.de/veranstaltung/nacht-der-klaenge-in-der-ordensk
+ irche/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2410296@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261108T070000Z
+DTEND:20261108T160000Z
+SUMMARY:Flohmarkt Wunsiedel Innenstadt mit Jahrmarkt
+LOCATION:Innenstadt Wunsiedel
+DESCRIPTION:Zeit laut Veranstalter: 8.00 – 17.00\nEintritt: Kostenfrei\nF
+ lohmarkt mit Jahrmarkt in Wunsiedel Innenstadt.
+URL:https://www.mainwelle.de/veranstaltung/flohmarkt-wunsiedel-innenstadt-m
+ it-jahrmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2451504@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261113T120000Z
+DTEND:20261113T140000Z
+SUMMARY:Tag der offenen Tür im "Langadorfs"
+LOCATION:Gasthaus Langadorfs in Nankendorf
+DESCRIPTION:Zeit laut Veranstalter: ab 13 Uhr
+URL:https://www.mainwelle.de/veranstaltung/tag-der-offenen-tuer-im-langador
+ fs/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2449482@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261114T090000Z
+DTEND:20261114T113000Z
+SUMMARY:Spielzeugbasar der Evangelischen Kindertagesstätte Rosental Creuß
+ en
+LOCATION:Mehrzweckhalle Creußen\, Bahnhofstr. 11\, 95473 Creußen
+DESCRIPTION:Zeit laut Veranstalter: 10:00 – 12:30\nEintritt: EINTRITT FRE
+ I\nprivat…
+URL:https://www.mainwelle.de/veranstaltung/spielzeugbasar-der-evangelischen
+ -kindertagesstaette-rosental-creussen/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2343519@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261115T130000Z
+DTEND:20261115T180000Z
+SUMMARY:Winterzauber bei den Alpakas 2026 (Ahorn Alpakas)
+LOCATION:Ahorn Alpakas\, Pfaffenberg 29\, 95491 Ahorntal
+DESCRIPTION:Zeit laut Veranstalter: 14:00 – 19:00\nEintritt: Eintritt fre
+ i\nEin unvergesslicher Nachmittag für die ganze Familie! Am 15. November 
+ 2026 verwandelt sich unser Hof in ein stimmungsvoll geschmücktes Winterpa
+ radies. Freut euch auf gemütliche Stunden in winterlicher Atmosphäre und
+  erlebt unsere flauschigen Alpakas hautnah! Mehrmals pro Stunde finden kur
+ ze Führungen auf der Alpakaweide statt. Dabei könnt ihr unsere Tiere ken
+ nenlernen\, Spannendes über sie erfahren und…
+URL:https://www.mainwelle.de/veranstaltung/winterzauber-bei-den-alpakas-202
+ 6-ahorn-alpakas/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2412327@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261115T170000Z
+DTEND:20261115T200000Z
+SUMMARY:Herbstkonzert 2026 Joseph Haydn DIE JAHRESZEITEN
+LOCATION:Friedrichsforum Bayreuth\, Friedrichstraße 19\, 95444 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 18:00 – 21:00\nEintritt: 17\,50 - 39 
+ €\nDieses Konzert verspricht ein Abend voller Energie\, Farbenpracht und
+  musikalischer Lebensfreude zu werden. Lassen Sie sich von den kraftvollen
+  Choreinsätzen\, den virtuosen Soli und der farbenreichen Orchesterbeglei
+ tung mitreißen. Erleben Sie den Lauf des Jahres in all seiner emotionalen
+  Tiefe – ein echtes Fest für die Sinne!
+URL:https://www.mainwelle.de/veranstaltung/herbstkonzert-2026-joseph-haydn-
+ die-jahreszeiten/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2440701@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20261121T130000Z
+DTEND:20261121T203000Z
+SUMMARY:Jahr des Akkordeons
+LOCATION:Das Zentrum - Europasaal\, 95444 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 14:00 + 19:00 – 16:30 + 21:30\nEintri
+ tt: 18 Euro\nJahreskonzert des Ersten Harmonika-Clubs Bayreuth und als Gä
+ ste: Akkordeonorchester Neustadt bei Coburg Melodien aus Klassik\, Musical
+ \, Schlager….
+URL:https://www.mainwelle.de/veranstaltung/jahr-des-akkordeons/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2360322@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Pottensteiner Winterzauber
+LOCATION:Pottenstein\, Altstadt
+DESCRIPTION:Zeit laut Veranstalter: 14:00 – 20:00\nEintritt: Eintritt fre
+ i\nPottensteiner Winterzauber – die historische Altstadt verwandelt sich
+  in eine winterlich-weihnachtliche Wunderwelt. Das ausführliche Programm 
+ unter www.pottenstein.de…
+URL:https://www.mainwelle.de/veranstaltung/pottensteiner-winterzauber/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2261973@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20270227T173000Z
+DTEND:20270227T223000Z
+SUMMARY:Casino Night Schloss Thurnau
+LOCATION:Schloss Thurnau\, Marktplatz 1\, 95349 Thurnau
+DESCRIPTION:Zeit laut Veranstalter: 18:30 – 23:30\nEintritt: 99\,00€\nE
+ in Abend voller Glamour\, Spannung und Unterhaltung Tauchen Sie ein in die
+  faszinierende Welt von Las Vegas und erleben Sie eine unvergessliche Casi
+ no Night! Freuen Sie sich auf stilvolles Ambiente\, prickelnde Spannung an
+  den Spieltischen und einen Abend voller Unterhaltung. Ob Roulette\, Black
+ jack oder Poker – testen Sie Ihr Glück\, sammeln Sie Chips und genieße
+ n…
+URL:https://www.mainwelle.de/veranstaltung/casino-night-schloss-thurnau/
+END:VEVENT
+BEGIN:VEVENT
+UID:mainwelle-2412360@mainwelle.de
+DTSTAMP:20260927T162100Z
+DTSTART:20270729T173000Z
+DTEND:20270729T210000Z
+SUMMARY:SCHLAGERSOFA - Hitparade der Herzen
+LOCATION:Speichersdorf\, Sportarena\, Schulstrasse\, 95469 Speichersdorf
+DESCRIPTION:Zeit laut Veranstalter: 19:30 – 23:00\nEintritt: 19\,90 €\n
+ Die elf- bis zwölfköpfige Schlager-Showband begeistert mit den größten
+  deutschen Hits der legendären ZDF-Hitparaden-Ära und nimmt ihr Publikum
+  mit auf eine musikalische Zeitreise durch die 1970er-Jahre. Mit Klassiker
+ n von Marianne Rosenberg\, Rex Gildo\, Udo Jürgens\, Katja Ebstein\, Cost
+ a Cordalis\, Vicky Leandros\, Chris Roberts\, Peter Maffay und vielen weit
+ eren Schlagerstars sorgt Schlagersofa für beste Stimmung\,…
+URL:https://www.mainwelle.de/veranstaltung/schlagersofa-hitparade-der-herze
+ n/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+name: Mainwelle ICS aktualisieren
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # täglich 03:17 UTC
+  workflow_dispatch:        # manuell über "Run workflow"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mainwelle-ics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ICS erzeugen
+        run: python3 mainwelle_ics.py -o docs/mainwelle.ics.new
+
+      - name: Nur bei inhaltlicher Änderung committen
+        run: |
+          strip() { grep -v '^DTSTAMP:' "$1" 2>/dev/null || true; }
+          if [ -f docs/mainwelle.ics ] && diff -q <(strip docs/mainwelle.ics) <(strip docs/mainwelle.ics.new) >/dev/null; then
+            echo "Keine inhaltliche Änderung."
+            rm docs/mainwelle.ics.new
+            exit 0
+          fi
+          mv docs/mainwelle.ics.new docs/mainwelle.ics
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/mainwelle.ics
+          git commit -m "ICS aktualisiert $(date -u +%F)"
+          git push
