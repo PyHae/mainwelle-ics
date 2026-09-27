@@ -69,6 +69,15 @@ def extract_items(page: str) -> list[dict]:
     raise ValueError("items-Array nicht abgeschlossen")
 
 
+def extract_limits(page: str) -> tuple[int | None, int | None]:
+    """(total, amount) aus dem Events-Block: Gesamtzahl bei Mainwelle vs. ausgelieferte Maximalzahl."""
+    anchor = page.find('"subtype":"events"')
+    block = page[anchor : page.find('"items":[', anchor)] if anchor >= 0 else ""
+    total = re.search(r'"total":\s*(\d+)', block)
+    amount = re.search(r'"amount":\s*"?(\d+)', block)
+    return (int(total.group(1)) if total else None, int(amount.group(1)) if amount else None)
+
+
 # --------------------------------------------------------------------------- parse
 
 def parse_time(raw: str, last: bool = False) -> dt.time | None | str:
@@ -225,7 +234,12 @@ def main(argv=None) -> int:
                     help="Abbruch, wenn weniger Events gefunden (schützt vor leerem Feed)")
     args = ap.parse_args(argv)
 
-    items = json.load(open(args.items, encoding="utf-8")) if args.items else extract_items(fetch_html())
+    if args.items:
+        items, total, amount = json.load(open(args.items, encoding="utf-8")), None, None
+    else:
+        page = fetch_html()
+        items = extract_items(page)
+        total, amount = extract_limits(page)
     events = [e for e in (build_event(i) for i in items) if e]
     if len(events) < args.min_events:
         print(f"FEHLER: nur {len(events)} Events – Datei wird nicht überschrieben", file=sys.stderr)
@@ -234,6 +248,15 @@ def main(argv=None) -> int:
         f.write(to_ics(events))
     timed = sum(not e["all_day"] for e in events)
     print(f"{len(events)} Events ({timed} mit Uhrzeit, {len(events) - timed} ganztägig) -> {args.output}")
+    print(f"Mainwelle: total={total}, Seitenlimit={amount}, ausgeliefert={len(items)}")
+
+    # Datei ist geschrieben; Exit 3 lässt den Workflow nach dem Commit fehlschlagen -> Mail
+    if total is not None and total > len(items):
+        print(f"::error::Mainwelle hat {total} Termine, die Seite liefert nur {len(items)} "
+              f"(Limit {amount}). Die am weitesten entfernten fehlen im Feed.")
+        return 3
+    if amount and len(items) >= 0.9 * amount:
+        print(f"::warning::{len(items)} von max. {amount} Terminen – Limit bald erreicht.")
     return 0
 
 

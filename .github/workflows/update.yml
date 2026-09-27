@@ -23,9 +23,17 @@ jobs:
           python-version: "3.12"
 
       - name: ICS erzeugen
-        run: python3 mainwelle_ics.py -o docs/mainwelle.ics.new
+        id: gen
+        # Exit 3 = Datei geschrieben, aber Mainwelle-Limit überschritten -> nach dem Commit fehlschlagen
+        run: |
+          set +e
+          python3 mainwelle_ics.py -o docs/mainwelle.ics.new
+          rc=$?
+          echo "rc=$rc" >> "$GITHUB_OUTPUT"
+          [ $rc -eq 0 ] || [ $rc -eq 3 ]
 
       - name: Nur bei inhaltlicher Änderung committen
+        if: steps.gen.outcome == 'success'
         run: |
           strip() { grep -v '^DTSTAMP:' "$1" 2>/dev/null || true; }
           if [ -f docs/mainwelle.ics ] && diff -q <(strip docs/mainwelle.ics) <(strip docs/mainwelle.ics.new) >/dev/null; then
@@ -39,3 +47,9 @@ jobs:
           git add docs/mainwelle.ics
           git commit -m "ICS aktualisiert $(date -u +%F)"
           git push
+
+      - name: Limit-Warnung per Fehlschlag melden
+        if: steps.gen.outputs.rc == '3'
+        run: |
+          echo "::error::Mainwelle liefert nicht alle Termine (Seitenlimit). Siehe Log von 'ICS erzeugen'."
+          exit 1
