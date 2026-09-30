@@ -17,6 +17,7 @@ import html
 import json
 import re
 import sys
+import urllib.error
 import urllib.request
 from zoneinfo import ZoneInfo
 
@@ -261,4 +262,15 @@ def main(argv=None) -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    except urllib.error.HTTPError as e:
+        body = e.read()[:300].decode("utf-8", "replace").replace("\n", " ")
+        print(f"::error::HTTP {e.code} {e.reason} von {e.url} | Header: "
+              f"server={e.headers.get('server')} cf-ray={e.headers.get('cf-ray')} | Body: {body}")
+        raise
+    except Exception as e:  # noqa: BLE001 – Ursache als Annotation sichtbar machen
+        import traceback
+        tb = traceback.format_exc().strip().splitlines()
+        print(f"::error::{type(e).__name__}: {e} | " + " / ".join(tb[-4:]))
+        raise
