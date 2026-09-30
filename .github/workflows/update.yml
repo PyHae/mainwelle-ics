@@ -16,11 +16,11 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5   # Node 24; v4 lief noch auf dem abgekündigten Node 20
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      # Kein setup-python nötig: das Skript nutzt nur die Standardbibliothek (python3 >= 3.9 ist vorinstalliert)
+      - name: Python-Version
+        run: python3 --version
 
       - name: ICS erzeugen
         id: gen

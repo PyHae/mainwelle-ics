@@ -13,12 +13,15 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import gzip
 import html
 import json
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
+import zlib
 from zoneinfo import ZoneInfo
 
 SOURCE_URL = "https://www.mainwelle.de/veranstaltungskalender/"
@@ -32,10 +35,42 @@ TIME_RE = re.compile(r"(?<!\d)(\d{1,2})(?:\s*[:.]\s*(\d{2}))?(?!\d)")
 
 # --------------------------------------------------------------------------- fetch
 
-def fetch_html(url: str = SOURCE_URL) -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return resp.read().decode("utf-8")
+def decode_body(raw: bytes, content_encoding: str | None = None) -> str:
+    """Entpackt gzip/deflate – auch wenn der Server es ungefragt oder ohne Header schickt."""
+    enc = (content_encoding or "").lower()
+    if raw[:2] == b"\x1f\x8b" or "gzip" in enc:
+        raw = gzip.decompress(raw)
+    elif "deflate" in enc:
+        try:
+            raw = zlib.decompress(raw)
+        except zlib.error:
+            raw = zlib.decompress(raw, -zlib.MAX_WBITS)  # raw deflate ohne zlib-Header
+    return raw.decode("utf-8", errors="replace")
+
+
+def fetch_html(url: str = SOURCE_URL, attempts: int = 3) -> str:
+    """Abruf mit Wiederholung bei Netz-/Serverfehlern (5xx, Timeout); 4xx sofort abbrechen."""
+    req = urllib.request.Request(url, headers={
+        "User-Agent": USER_AGENT,
+        "Accept": "text/html",
+        "Accept-Encoding": "gzip, deflate",
+    })
+    for attempt in range(1, attempts + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                return decode_body(resp.read(), resp.headers.get("Content-Encoding"))
+        except urllib.error.HTTPError as e:
+            if e.code < 500 or attempt == attempts:
+                raise
+            err = f"HTTP {e.code}"
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            if attempt == attempts:
+                raise
+            err = f"{type(e).__name__}: {e}"
+        wait = 30 * attempt
+        print(f"::warning::Abruf fehlgeschlagen ({err}), Versuch {attempt}/{attempts} – neuer Versuch in {wait}s")
+        time.sleep(wait)
+    raise RuntimeError("unerreichbar")
 
 
 def extract_items(page: str) -> list[dict]:
