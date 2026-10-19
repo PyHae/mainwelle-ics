@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:mainwelle-2382036@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20261201
 SUMMARY:RW21 Leseherbst 2026
@@ -25,7 +25,7 @@ URL:https://www.mainwelle.de/veranstaltung/rw21-leseherbst-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2452554@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261030
 SUMMARY:"Schichtwechsel" - Kunstausstellung in der Schlossgalerie
@@ -40,19 +40,8 @@ URL:https://www.mainwelle.de/veranstaltung/schichtwechsel-kunstausstellung-
  in-der-schlossgalerie/
 END:VEVENT
 BEGIN:VEVENT
-UID:mainwelle-2487540@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261019
-SUMMARY:Geflügelschau in Prebitz
-LOCATION:Gemeindezentrum Prebitz\, Bieberswöhr 27\, 95473 Prebitz
-DESCRIPTION:Zeit laut Veranstalter: 14-18 uhr – 9-18 Uhr\nEintritt: Frei\
- nKleintierzuchtverein Creußen…
-URL:https://www.mainwelle.de/veranstaltung/gefluegelschau-in-prebitz/
-END:VEVENT
-BEGIN:VEVENT
 UID:mainwelle-2478360@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261026
 SUMMARY:"Goldrausch": Kindertheater in Pegnitz
@@ -69,170 +58,8 @@ URL:https://www.mainwelle.de/veranstaltung/goldrausch-kindertheater-in-pegn
  itz/
 END:VEVENT
 BEGIN:VEVENT
-UID:mainwelle-2480016@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T050000Z
-DTEND:20261018T140000Z
-SUMMARY:Deutsche Enduro Meisterschaft
-LOCATION:Fränkische Schweiz / Streitberg / Waischenfeld / Seelig\, 91344 W
- aischenfeld
-DESCRIPTION:Zeit laut Veranstalter: 7:00 – 16:00\nEintritt: Eintritt Frei
- \nSpannende Sonderprüfungen\, Steile Auffahrten\, Verpflegung…
-URL:https://www.mainwelle.de/veranstaltung/deutsche-enduro-meisterschaft/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2492253@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T080000Z
-DTEND:20261018T150000Z
-SUMMARY:Familienerlebnistag „Ein Fest für die Sinne“
-LOCATION:Zentrum Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 10:00 – 17:00\nEintritt: Eintritt fre
- i\nDie Besucher können an verschiedenen Mitmachstationen aktiv eigene Fä
- higkeiten ausprobieren und Neues erleben. Kleine und große Gäste dürfen
-  sich auf ganz besondere Art und Weise entfalten und kreativ betätigen\, 
- zum Beispiel beim Töpfern\, beim Kreieren von wilden Kreaturen oder bei b
- unten Herbstbasteleien. Wer mag\, rührt sich selbst Teig an und backt dan
- n sein Stockbrot am…
-URL:https://www.mainwelle.de/veranstaltung/familienerlebnistags-ein-fest-fu
- er-die-sinne/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2414955@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T080000Z
-DTEND:20261018T100000Z
-SUMMARY:Kinderbasar Pottenstein
-LOCATION:Pottenstein Graf-Botho-Schule\, Bayreuther Berg 7\, 91278 Pottenst
- ein
-DESCRIPTION:Zeit laut Veranstalter: 10:00 – 12:00\nEintritt: Eintritt fre
- i\nFörderverein Kindergärten Pottenstein Das mitbringen von Taschen/Ruck
- säcke/Kinderwagen usw. ist nicht erwünscht. Sie erhalten von uns eine Ei
- nkaufstasche. Mit selbstgemachten Kuchen\, Torten & Muffin. 🍰🧁…
-URL:https://www.mainwelle.de/veranstaltung/kinderbasar-pottenstein/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2471895@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T080000Z
-DTEND:20261018T150000Z
-SUMMARY:Tag der offenen Tür des Schutz- und Gebrauchs-Hundevereins Bayreuh
-LOCATION:Hundeplatz Wilhelmineaue\, Bühlweg 5\, in 95448 Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 10:00 – 17:00\nEintritt: Eintritt fre
- i\nTag der offenen Tür. Einblick in unser Training.
-URL:https://www.mainwelle.de/veranstaltung/tag-der-offenen-tuer-des-schutz-
- und-gebrauchs-hundevereins-bayreuh/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2487369@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T083000Z
-DTEND:20261018T093000Z
-SUMMARY:Abschlusskonzert der Trachtenkapelle Hohenmirsberg
-LOCATION:Kurpark Pottenstein\, 91278 Pottenstein
-DESCRIPTION:Zeit laut Veranstalter: 10:30 – 11:30\nEintritt: Eintritt fre
- i\nTourismusbüro Pottenstein Das Tourismusbüro Pottenstein lädt zum die
- sjährigen Abschlusskonzert im Pottensteiner Kurpark ein. Am Sonntag\, den
-  18.Oktober spielt ab 10.30 Uhr die Trachtenkapelle Hohenmirsberg auf. Der
-  Eintritt zu dem einstündigen Konzert ist frei. Die Pottensteiner Kurpark
- konzerte starten dann im kommenden Jahr wieder ab Mai.
-URL:https://www.mainwelle.de/veranstaltung/abschlusskonzert-der-trachtenkap
- elle-hohenmirsberg/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2435946@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T083000Z
-DTEND:20261018T093000Z
-SUMMARY:Kurparkkonzert Pottenstein
-LOCATION:Kurpark Pottenstein\, Am Kurzentrum 3\, 91278 Pottenstein
-DESCRIPTION:Zeit laut Veranstalter: 10:30 – 11:30\nEintritt: Eintritt fre
- i\nDie Trachtenkapelle Hohenmirsberg spielt eine Stunde Blasmusik im Potte
- nsteiner Kurpark…
-URL:https://www.mainwelle.de/veranstaltung/kurparkkonzert-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2491758@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T090000Z
-DTEND:20261018T150000Z
-SUMMARY:Tag der offenen Tür bei Auto-Müller in Hollfeld
-LOCATION:Auto-Müller\, Treppendorfer Straße 2\, 96142 Hollfeld
-DESCRIPTION:Zeit laut Veranstalter: 11:00 – 17:00\nDie Auto-Müller GmbH 
- blickt stolz auf eine 100-jährige Unternehmensgeschichte zurück. Gleichz
- eitig jährt sich ein weiteres bedeutendes Kapitel unseres Hauses: 60 Jahr
- e BMW Partnerschaft. Das wollen wir mit euch feiern! Darauf könnt ihr euc
- h freuen: BMW M2 – BMW Challenge BMW Oldtimer-Ausstellung Interessante V
- orführungen Und das ist noch nicht alles. Wir haben tolle regionale Ausst
- eller vor…
-URL:https://www.mainwelle.de/veranstaltung/tag-der-offenen-tuer-bei-auto-mu
- eller-in-hollfeld/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2467662@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T110000Z
-DTEND:20261018T133000Z
-SUMMARY:Herbstwanderung rund um Egloffstein
-LOCATION:91349 Egloffstein\, Parkplatz am Freibad (unterhalb)
-DESCRIPTION:Zeit laut Veranstalter: 13:00 – 15:30\nEintritt: Eintritt fre
- i\, Spende\nHiermit ergeht eine herzliche Einladung zu einer Rundwanderung
-  durch die herbstliche Fränkische Schweiz rund um Egloffstein mit herrlic
- hen Aussichten am Sonntag\, den 18. Oktober 2026 um 13.00 Uhr. Treffpunkt 
- ist der Parkplatz beim Freibad Egloffstein (unterhalb). Begrenzte Teilnehm
- erzahl. Wir freuen uns\, dass wir unseren Bergwachtler Andreas als Wanderf
- ührer gewinnen konnten.Und natürlich freuen wir uns auf…
-URL:https://www.mainwelle.de/veranstaltung/herbstwanderung-rund-um-egloffst
- ein/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2493288@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T130000Z
-DTEND:20261018T180000Z
-SUMMARY:Theatertag in der Studiobühne
-LOCATION:Studiobühne Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 15:00 – 20:00\nEintritt: Eintritt fre
- i\nDie Türen der Studiobühne öffnen sich zur neuen Spielzeit 2026/27: B
- untes Programm für große und kleine Theaterfans: Öffentliche Proben der
-  aktuellen Produktionen: 15.30 Uhr: Bühnenstudio JEEPS 16.15 Uhr: Hauptb
- ühne HASE UND IGEL 17.00 Uhr: Bühnenstudio EVENT 17.30 Uhr: Hauptbühne 
- HASE UND IGEL 18.15 Uhr: Hauptbühne TANNÖD 19.15 Uhr: Hauptbühne RILKE-
- PROJEKT Zum Mitmachen: KUNST-AKTION für Kinder:…
-URL:https://www.mainwelle.de/veranstaltung/theatertag-in-der-studiobuehne/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2492235@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T150000Z
-DTEND:20261018T190000Z
-SUMMARY:Bayreuther Winterdorf – Hannes Wölfel live
-LOCATION:Bayreuther Winterdorf
-DESCRIPTION:Zeit laut Veranstalter: 17:00 – 21:00\nEintritt: Eintritt fre
- i\nGitarre\, Stimme und Songs aus rund 40 Jahren Musikgeschichte. Hannes W
- ölfel ist wieder im Winterdorf und interpretiert bekannte Songs auf seine
-  ganz eigene Art – mal etwas ruhiger\, mal mit mehr Tempo und zwischendu
- rch spielt er auch seine eigenen Songs.
-URL:https://www.mainwelle.de/veranstaltung/bayreuther-winterdorf-hannes-woe
- lfel-live/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2487054@mainwelle.de
-DTSTAMP:20261018T080524Z
-DTSTART:20261018T160000Z
-DTEND:20261018T183000Z
-SUMMARY:Konzert KARISMA
-LOCATION:Epiphaniaskirche Bayreuth-Laineck\, Warmensteinacher Straße 85\, 
- 95448 Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 18.00 – 20.30\nEintritt: Eintritt fre
- i\nAbwechslungsreiche Lieder vom Trio. Lieder zum Wohlfühlen. Humorvolle 
- Momente und Musik\, die auch Raum lässt für ruhige und tiefgründige Ged
- anken.
-URL:https://www.mainwelle.de/veranstaltung/konzert-karisma/
-END:VEVENT
-BEGIN:VEVENT
 UID:mainwelle-2488419@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261019T153000Z
 DTEND:20261019T173000Z
 SUMMARY:Trebgaster Wirtshaussingen
@@ -243,7 +70,7 @@ URL:https://www.mainwelle.de/veranstaltung/wirtshaussingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2492298@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261025
 SUMMARY:Tastenlöwen - Veranstaltungen
@@ -258,7 +85,7 @@ URL:https://www.mainwelle.de/veranstaltung/tastenloewen-veranstaltungen/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2348838@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 SUMMARY:80 Jahre SV Bavaria Waischenfeld
@@ -270,7 +97,7 @@ URL:https://www.mainwelle.de/veranstaltung/80-jahre-sv-bavaria-waischenfeld
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2473092@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261023T150000Z
 DTEND:20261023T220000Z
 SUMMARY:Rommé-Turnier in Eckersdorf
@@ -281,7 +108,7 @@ URL:https://www.mainwelle.de/veranstaltung/romme-turnier-in-eckersdorf/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2119212@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261023T163000Z
 DTEND:20261023T210000Z
 SUMMARY:Grappa-Whisky Dinner im Schloss Thurnau
@@ -298,7 +125,7 @@ URL:https://www.mainwelle.de/veranstaltung/grappa-whisky-dinner-im-schloss-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2410029@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261023T170000Z
 DTEND:20261023T190000Z
 SUMMARY:IndustrieKlänge: Kultur. Wissenschaft. Innovation.
@@ -315,7 +142,7 @@ URL:https://www.mainwelle.de/veranstaltung/industrieklaenge-kultur-wissensc
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2472750@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261024T073000Z
 DTEND:20261024T140000Z
 SUMMARY:Flohmarkt im Gemeindezentrum Bieberswöhr
@@ -330,7 +157,7 @@ URL:https://www.mainwelle.de/veranstaltung/flohmarkt-im-gemeindezentrum-bie
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2481084@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261024T080000Z
 DTEND:20261024T100000Z
 SUMMARY:Tag der offenen Tür - Kath. Kindergarten Heilig Geist
@@ -347,7 +174,7 @@ URL:https://www.mainwelle.de/veranstaltung/tag-der-offenen-tuer-kath-kinder
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2436384@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261024T110000Z
 DTEND:20261024T150000Z
 SUMMARY:Rugby Try-Out
@@ -363,7 +190,7 @@ URL:https://www.mainwelle.de/veranstaltung/rugby-try-out/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2476128@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261024T150000Z
 DTEND:20261024T170000Z
 SUMMARY:Akustik-Konzert mit "Vintage & So" in Bad Berneck
@@ -375,7 +202,7 @@ URL:https://www.mainwelle.de/veranstaltung/akustik-konzert-mit-vintage-so-i
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2490918@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261024T163000Z
 DTEND:20261025T050000Z
 SUMMARY:Oktoberfest der Landjugend Plössen Bayreuth
@@ -388,7 +215,7 @@ URL:https://www.mainwelle.de/veranstaltung/oktoberfest-von-der-landjugend-p
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2473659@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261025T080000Z
 DTEND:20261025T120000Z
 SUMMARY:4. Bayreuther Briefmarken und Münzen "Flohmarkt"
@@ -399,7 +226,7 @@ URL:https://www.mainwelle.de/veranstaltung/4-bayreuther-briefmarken-und-mue
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2358966@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261025T090000Z
 DTEND:20261025T110000Z
 SUMMARY:Herbst-/Winter-Basar
@@ -409,7 +236,7 @@ URL:https://www.mainwelle.de/veranstaltung/herbst-winter-basar/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2471769@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261025T093000Z
 DTEND:20261025T170000Z
 SUMMARY:Jubiläum 10 Jahre des Arbeiter-Samariter-Bundes
@@ -422,7 +249,7 @@ URL:https://www.mainwelle.de/veranstaltung/jubilaeum-10-jahre-des-arbeiter-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2471736@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261025T120000Z
 DTEND:20261025T140000Z
 SUMMARY:Herbst-Winter Flohmarkt Rund ums Kind
@@ -435,7 +262,7 @@ URL:https://www.mainwelle.de/veranstaltung/herbst-winter-flohmarkt-rund-ums
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2484216@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261025T130000Z
 DTEND:20261025T150000Z
 SUMMARY:Kaffeeklatsch im Reservistenheim Bayreuth
@@ -452,7 +279,7 @@ URL:https://www.mainwelle.de/veranstaltung/moderieren-kaffeeklatsch-im-rese
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2487864@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261025T130000Z
 DTEND:20261025T163000Z
 SUMMARY:Süßes\, Salziges oder Saures? Kinder-Halloween-Party in der Tanzb
@@ -470,7 +297,7 @@ URL:https://www.mainwelle.de/veranstaltung/suesses-salziges-oder-saures-kin
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2486313@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261028T080000Z
 DTEND:20261028T130000Z
 SUMMARY:Challenge Me 2.0 - Tag der offenen Tür
@@ -487,7 +314,7 @@ URL:https://www.mainwelle.de/veranstaltung/challenge-me-2-0-tag-der-offenen
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2468802@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261030T190000Z
 DTEND:20261030T210000Z
 SUMMARY:Kultband „Landmusigg“ beim Troschenreuther Mundarttheater e.V.
@@ -504,7 +331,7 @@ URL:https://www.mainwelle.de/veranstaltung/kultband-landmusigg-beim-trosche
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2487867@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Spooky Halloween-Party in der Tanzbar
@@ -521,7 +348,7 @@ URL:https://www.mainwelle.de/veranstaltung/spooky-halloween-party-in-der-ta
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2484999@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261031T163000Z
 DTEND:20261031T183000Z
 SUMMARY:Große Halloween Party in Eckersdorf
@@ -536,7 +363,7 @@ URL:https://www.mainwelle.de/veranstaltung/grosse-halloween-party-in-eckers
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2467002@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261031T163000Z
 DTEND:20261031T200000Z
 SUMMARY:Gruselwanderung in Harsdorf
@@ -547,7 +374,7 @@ URL:https://www.mainwelle.de/veranstaltung/gruselwanderung-in-harsdorf/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2407899@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261103T173000Z
 DTEND:20261103T183000Z
 SUMMARY:Ausstellung "Der leise Blick"
@@ -562,7 +389,7 @@ URL:https://www.mainwelle.de/veranstaltung/ausstellung-der-leise-blick/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2181192@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261108
 SUMMARY:"JEDERMANN" im Friedrichsforum
@@ -576,7 +403,7 @@ URL:https://www.mainwelle.de/veranstaltung/jedermann-im-friedrichsforum/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2427414@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261115
 SUMMARY:Lion Theater Creußen - "Richtig g`lacht - glücklich g`macht"
@@ -589,7 +416,7 @@ URL:https://www.mainwelle.de/veranstaltung/lion-theater-creussen-richtig-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2442708@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261115
 SUMMARY:Theater: Kaufhaus in Trouble- Ein Dreiakter von Winnie Abel
@@ -606,7 +433,7 @@ URL:https://www.mainwelle.de/veranstaltung/theater-kaufhaus-in-trouble-ein-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2407896@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261107T160000Z
 DTEND:20261107T200000Z
 SUMMARY:Nacht der Klänge in der Ordenskirche
@@ -622,7 +449,7 @@ URL:https://www.mainwelle.de/veranstaltung/nacht-der-klaenge-in-der-ordensk
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2481780@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261107T180000Z
 DTEND:20261107T190000Z
 SUMMARY:Hubertusmesse in Benk-Bindlach
@@ -639,7 +466,7 @@ URL:https://www.mainwelle.de/veranstaltung/hubertusmesse-in-benk-bindlach/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2410296@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261108T070000Z
 DTEND:20261108T160000Z
 SUMMARY:Flohmarkt Wunsiedel Innenstadt mit Jahrmarkt
@@ -651,7 +478,7 @@ URL:https://www.mainwelle.de/veranstaltung/flohmarkt-wunsiedel-innenstadt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2477685@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261108T090000Z
 DTEND:20261108T160000Z
 SUMMARY:22. Regionaler Künstlermarkt
@@ -667,7 +494,7 @@ URL:https://www.mainwelle.de/veranstaltung/22-regionaler-kuenstlermarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2451504@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261113T120000Z
 DTEND:20261113T140000Z
 SUMMARY:Tag der offenen Tür im "Langadorfs"
@@ -678,7 +505,7 @@ URL:https://www.mainwelle.de/veranstaltung/tag-der-offenen-tuer-im-langador
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2449482@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261114T090000Z
 DTEND:20261114T113000Z
 SUMMARY:Spielzeugbasar der Evangelischen Kindertagesstätte Rosental Creuß
@@ -691,7 +518,7 @@ URL:https://www.mainwelle.de/veranstaltung/spielzeugbasar-der-evangelischen
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2486586@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261114T120000Z
 DTEND:20261114T140000Z
 SUMMARY:DAV Winterbasar 2026
@@ -708,7 +535,7 @@ URL:https://www.mainwelle.de/veranstaltung/dav-winterbasar-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2487954@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:Böhmischer Abend der Waischenfelder Blasmusik
@@ -725,7 +552,7 @@ URL:https://www.mainwelle.de/veranstaltung/boehmischer-abend-der-waischenfe
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2343519@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261115T130000Z
 DTEND:20261115T180000Z
 SUMMARY:Winterzauber bei den Alpakas 2026 (Ahorn Alpakas)
@@ -742,7 +569,7 @@ URL:https://www.mainwelle.de/veranstaltung/winterzauber-bei-den-alpakas-202
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2412327@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261115T170000Z
 DTEND:20261115T200000Z
 SUMMARY:Herbstkonzert 2026 Joseph Haydn DIE JAHRESZEITEN
@@ -758,7 +585,7 @@ URL:https://www.mainwelle.de/veranstaltung/herbstkonzert-2026-joseph-haydn-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2440701@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261121T130000Z
 DTEND:20261121T203000Z
 SUMMARY:Jahreskonzert des Ersten Harmonika-Clubs Bayreuth
@@ -771,7 +598,7 @@ URL:https://www.mainwelle.de/veranstaltung/jahr-des-akkordeons/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2483349@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Böhmischer Abend von der Pegnitz an die Isar in Creußen
@@ -788,7 +615,7 @@ URL:https://www.mainwelle.de/veranstaltung/boehmischer-abend-von-der-pegnit
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2486985@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261122T083000Z
 DTEND:20261122T110000Z
 SUMMARY:Winter- und Spielzeug- Basar Pegnitz
@@ -799,7 +626,7 @@ URL:https://www.mainwelle.de/veranstaltung/winter-und-spielzeug-basar-pegni
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2360322@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:Pottensteiner Winterzauber
@@ -812,7 +639,7 @@ URL:https://www.mainwelle.de/veranstaltung/pottensteiner-winterzauber/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2484144@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261128T130000Z
 DTEND:20261128T180000Z
 SUMMARY:Leupser Schupfenadvent
@@ -824,7 +651,7 @@ URL:https://www.mainwelle.de/veranstaltung/leupser-schupfenadvent/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2473938@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Adventskonzert mit Lighthouse
@@ -838,7 +665,7 @@ URL:https://www.mainwelle.de/veranstaltung/adventskonzert-mit-lighthouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2490129@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Konzert: MarMaLate live in Eckersdorf
@@ -856,7 +683,7 @@ URL:https://www.mainwelle.de/veranstaltung/konzert-marmalate-live-in-eckers
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2482890@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261129T120000Z
 DTEND:20261129T140000Z
 SUMMARY:Ski- und Outdoorflohmarkt im ZENTRUM
@@ -873,7 +700,7 @@ URL:https://www.mainwelle.de/veranstaltung/ski-und-outdoorflohmarkt-im-zent
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2491137@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261203T120000Z
 DTEND:20261203T173000Z
 SUMMARY:Tagung: Ethik in der Psychiatrie
@@ -889,7 +716,7 @@ URL:https://www.mainwelle.de/veranstaltung/tagung-ethik-in-der-psychiatrie/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2484165@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
 SUMMARY:Weihnachts-Töpfermarkt Schloss Thurnau
@@ -907,7 +734,7 @@ URL:https://www.mainwelle.de/veranstaltung/weihnachts-toepfermarkt-schloss-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2475228@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261205T180000Z
 DTEND:20261205T200000Z
 SUMMARY:Katizi Music Weihnachtskonzert
@@ -921,7 +748,7 @@ URL:https://www.mainwelle.de/veranstaltung/katizi-music-weihnachtskonzert/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2473965@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20261213T150000Z
 DTEND:20261213T163000Z
 SUMMARY:Nemmersdorfer Weihnacht
@@ -938,7 +765,7 @@ URL:https://www.mainwelle.de/veranstaltung/nemmersdorfer-weihnacht/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2261973@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20270227T173000Z
 DTEND:20270227T223000Z
 SUMMARY:Casino Night Schloss Thurnau
@@ -954,7 +781,7 @@ URL:https://www.mainwelle.de/veranstaltung/casino-night-schloss-thurnau/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2412360@mainwelle.de
-DTSTAMP:20261018T080524Z
+DTSTAMP:20261019T085738Z
 DTSTART:20270729T173000Z
 DTEND:20270729T210000Z
 SUMMARY:SCHLAGERSOFA - Hitparade der Herzen
