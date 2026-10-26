@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:mainwelle-2382036@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20261201
 SUMMARY:RW21 Leseherbst 2026
@@ -24,208 +24,8 @@ DESCRIPTION:Eintritt: Je nach Veranstaltung\nIn Kooperation mit der vhs und
 URL:https://www.mainwelle.de/veranstaltung/rw21-leseherbst-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:mainwelle-2348838@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-SUMMARY:80 Jahre SV Bavaria Waischenfeld
-LOCATION:Sport- und Bürgerhalle Waischenfeld\, Sport- und Bürgerhalle\, B
- ischof-Nausea-Platz\, 91344 Waischenfeld
-DESCRIPTION:Eintritt: Eintritt frei
-URL:https://www.mainwelle.de/veranstaltung/80-jahre-sv-bavaria-waischenfeld
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2505924@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-SUMMARY:Herbstmarkt\, Wochenmarkt und verkaufsoffener Sonntag in Kulmbach
-LOCATION:Kulmbach
-DESCRIPTION:Eintritt: Eintritt frei\nVon Freitag bis Sonntag findet der tra
- ditionelle Herbstjahrmarkt auf dem Kulmbacher EKU-Platz statt. Drei Tage l
- ang erwartet euch ein vielfältiges Angebot an Waren\, kulinarischen Spezi
- alitäten und traditionellen Marktattraktionen. Beispielsweise gibt es Hau
- shaltsartikel\, Gewürze\, Wolle\, Textilien\, Lederwaren\, Uhren und Schm
- uck. Auch Bürsten\, Besen\, Tupperware\, Süßwaren und vieles mehr. Geö
- ffnet ist der Markt am Freitag und Samstag…
-URL:https://www.mainwelle.de/veranstaltung/herbstmarkt-wochenmarkt-und-verk
- aufsoffener-sonntag-in-kulmbach/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2490939@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-SUMMARY:Herbstball des Burschenverein Ehrenkranz in Weidenberg
-LOCATION:Grund- und Mittelschule Weidenberg\, Schulstraße 4\, 95466 Weiden
- berg
-DESCRIPTION:Zeit laut Veranstalter: 19:00 Uhr – 04:00 Uhr\nEintritt: 25
- €\nDer Herbstball 2026 lädt dazu ein\, die Abendkleider und Anzüge aus
-  dem Schrank zu holen und sich gebührend in Schale zu werfen. Die festlic
- he Veranstaltung findet am Samstag\, den 24. Oktober 2026\, in der Schul-A
- ula der Volksschule Weidenberg statt. Der Einlass beginnt ab 19:00 Uhr\, b
- evor das Programm um 19:30 Uhr offiziell startet. Für die…
-URL:https://www.mainwelle.de/veranstaltung/herbstball-des-burschenverein-eh
- renkranz-in-weidenberg/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2505150@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Flohmarkt Himmelkron
-LOCATION:Freigelände am Supermarkt\, Kulmbacher Straße 1\, 95502 Himmelkr
- on
-DESCRIPTION:Eintritt: Eintritt frei\nEin klassischer Flohmarkt mit Trödels
- tänden unter freiem Himmel. Essen\, Getränke und kostenlose Parkplätze 
- gibt’s auch.
-URL:https://www.mainwelle.de/veranstaltung/flohmarkt-himmelkron/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2473659@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T080000Z
-DTEND:20261025T120000Z
-SUMMARY:4. Bayreuther Briefmarken und Münzen "Flohmarkt"
-LOCATION:Schützengilde Atstadt e.V. Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 9 – 13
-URL:https://www.mainwelle.de/veranstaltung/4-bayreuther-briefmarken-und-mue
- nzen-flohmarkt/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2505090@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T090000Z
-DTEND:20261025T170000Z
-SUMMARY:Gronicher Herbstkerwa
-LOCATION:Marktplatz Goldkronach
-DESCRIPTION:Zeit laut Veranstalter: 10:00 – 18:00\nEintritt: Eintritt fre
- i\nAm Sonntag ist „Gronicher Herbstkerwa.“ Da warten auf dem Marktplat
- z verschiedene Stände auf euch – zum Beispiel von Imkern und Bäckern. 
- Dazu gibt’s fränkische Spezialitäten. Und auch die Geschäfte öffnen 
- zum verkaufsoffenen Sonntag.
-URL:https://www.mainwelle.de/veranstaltung/gronicher-herbstkerwa/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2358966@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T090000Z
-DTEND:20261025T110000Z
-SUMMARY:Herbst-/Winter-Basar
-LOCATION:Kinderschloss Regenbogen\, Schloßstr. 39
-DESCRIPTION:Zeit laut Veranstalter: 10:00 – 12:00\nEintritt: ---
-URL:https://www.mainwelle.de/veranstaltung/herbst-winter-basar/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2505102@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T093000Z
-DTEND:20261025T170000Z
-SUMMARY:Herbstmarkt Pegnitz und verkaufsoffener Sonntag
-LOCATION:Innenstadt Pegnitz\, hauptstraße\, 91257 Pegnitz
-DESCRIPTION:Zeit laut Veranstalter: 10:30 – 18:00\nEintritt: Eintritt fre
- i\nDer Pegnitzer Herbstmarkt ist von 10:30 bis 18Uhr. Dazu öffnen die Ges
- chäfte beim verkaufsoffenen Sonntag von 13:00 bis 18:00 Uhr ihre Türen.
-URL:https://www.mainwelle.de/veranstaltung/herbstmarkt-pegnitz-und-verkaufs
- offener-sonntag/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2471736@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T120000Z
-DTEND:20261025T140000Z
-SUMMARY:Herbst-Winter Flohmarkt Rund ums Kind
-LOCATION:Haus des Gastes\, Oberwarmensteinach 60\, 95485 Warmensteinach
-DESCRIPTION:Zeit laut Veranstalter: 13 – 15\nEintritt: Eintritt frei\nFlo
- hmarkt rund ums Kind\, Kleidung\, Spielsachen\, Winterausrüstung\, Umstan
- dsmode…
-URL:https://www.mainwelle.de/veranstaltung/herbst-winter-flohmarkt-rund-ums
- -kind/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2484216@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T130000Z
-DTEND:20261025T150000Z
-SUMMARY:Kaffeeklatsch im Reservistenheim Bayreuth
-LOCATION:Reservistenheim Bayreuth\, Mozartstraße 16
-DESCRIPTION:Zeit laut Veranstalter: 14.00 Uhr – 16.00 Uhr\nEintritt: Eint
- ritt frei\nFreut euch auf einen gemütlichen Sonntag Nachmittag mit selbst
-  gebackenen Kuchen und leckeren Torten. Unser Filterkaffee wird immer fris
- ch gebrüht. Auf euer Erscheinen freut sich die Reservistenkameradschaft B
- ayreuth. Im November und Dezember pausieren wir\, jedoch geht es im Januar
-  schon wieder weiter. Wir bieten jeden letzten Sonntag im Monat unseren le
- ckeren Service an.
-URL:https://www.mainwelle.de/veranstaltung/moderieren-kaffeeklatsch-im-rese
- rvistenheim-bayreuth/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2487864@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T130000Z
-DTEND:20261025T163000Z
-SUMMARY:Süßes\, Salziges oder Saures? Kinder-Halloween-Party in der Tanzb
- ar
-LOCATION:Tanzbar Bayreuth\, Bernecker Str. 79
-DESCRIPTION:Zeit laut Veranstalter: 14:00 – 17:30\nEintritt: ab 4€\n✨
- 🎃👻 SÜSSES ODER SAURES*👻🎃✨ 🌟 Kinder-Halloween-Party in Ba
- yreuth 🌟 🎟 *Tickets & Eintritt* – Einlass ab 14:00 Uhr mit *Online
- -Ticket* (bevorzugter Einlass) – Einlass ohne Ticket ab ca. 14:15 Uhr 
- – Eintritt: *4 € pro Kind (ab 85 cm) oder Erwachsener* – *Familienti
- cket (4 Personen): 12 €* 👉 https://tanzbar-bayreuth.ticketbro.com/de 
- — 👻 *Das erwartet euch:* –…
-URL:https://www.mainwelle.de/veranstaltung/suesses-salziges-oder-saures-kin
- der-halloween-party-in-der-tanzbar/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2500197@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T150000Z
-DTEND:20261025T170000Z
-SUMMARY:Herbstkonzert der Musikschule
-LOCATION:Städtische Musikschule\, Brandenburger Straße 15
-DESCRIPTION:Zeit laut Veranstalter: 16:00\nEintritt: Eintritt frei\nAm Sonn
- tag ist in der Städtischen Musikschule das traditionelle Herbstkonzert. J
- unge musikalische Talente präsentieren ein farbenreiches Programm. Neben 
- verschiedenen solistischen Beiträgen sind auch erste Auftritte unterschie
- dlicher Ensembles zu erleben. Auch das Sinfonieorchester unter Leitung von
-  Andrea Rieger wird zu hören sein. Die jungen Musikerinnen und Musiker fr
- euen sich auf viele begeisterte Zuhörende.
-URL:https://www.mainwelle.de/veranstaltung/herbstkonzert-der-musikschule/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2507268@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T160000Z
-DTEND:20261025T180000Z
-SUMMARY:Musik und Lesung in der Stadtkirche
-LOCATION:Stadtkirche Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 17 Uhr\nAuschwitz und Bayreuth: Stimmen
-  gegen das Vergessen Literatur und Klezmermusik in der Stadtkirche Bayreut
- h Auschwitz mahnt. Bayreuth erinnert. Am Sonntag\, 25. Oktober\, um 17 Uhr
-  wird die Stadtkirche Bayreuth zum Ort eindringlicher Erinnerungen an die 
- Verbrechen des Nationalsozialismus. Texte von Anne Frank\, Primo Levi\, Ma
- scha Kaléko\, Stefan Zweig und Etty Hillesum geben den Verfolgten eine…
-URL:https://www.mainwelle.de/veranstaltung/musik-und-lesung-in-der-stadtkir
- che/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2505081@mainwelle.de
-DTSTAMP:20261025T082841Z
-DTSTART:20261025T170000Z
-DTEND:20261025T200000Z
-SUMMARY:"Notte Italiana" im Bayreuther Winterdorf
-LOCATION:Winterdorf Bayreuth\, Maximilianstraße 12-14\, 95444 Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 18:00 – 21:00\nEintritt: Eintritt fre
- i\nNotte Italiana mit Pino Barone. Er bringt er ein bisschen italienisches
-  Lebensgefühl ins Bayreuther Winterdorf.
-URL:https://www.mainwelle.de/veranstaltung/notte-italiana-im-bayreuther-win
- terdorf/
-END:VEVENT
-BEGIN:VEVENT
 UID:mainwelle-2468802@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261030T190000Z
 DTEND:20261030T210000Z
 SUMMARY:Kultband „Landmusigg“ beim Troschenreuther Mundarttheater e.V.
@@ -242,7 +42,7 @@ URL:https://www.mainwelle.de/veranstaltung/kultband-landmusigg-beim-trosche
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2487867@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Spooky Halloween-Party in der Tanzbar
@@ -259,7 +59,7 @@ URL:https://www.mainwelle.de/veranstaltung/spooky-halloween-party-in-der-ta
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2467002@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261031T163000Z
 DTEND:20261031T200000Z
 SUMMARY:Gruselwanderung in Harsdorf
@@ -270,7 +70,7 @@ URL:https://www.mainwelle.de/veranstaltung/gruselwanderung-in-harsdorf/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2500839@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261101T130000Z
 DTEND:20261101T150000Z
 SUMMARY:Flohmarkt im Tierheim Bayreuth
@@ -285,7 +85,7 @@ URL:https://www.mainwelle.de/veranstaltung/flohmarkt-im-tierheim-bayreuth/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2502099@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261108
 SUMMARY:Kerwa FSV Schnabelwaid
@@ -295,7 +95,7 @@ URL:https://www.mainwelle.de/veranstaltung/kerwa-fsv-schnabelwaid/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2500869@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
 SUMMARY:Kerwa in Schnabelwaid - 2000er &2010er Party
@@ -308,7 +108,7 @@ URL:https://www.mainwelle.de/veranstaltung/kerwa-in-schnabelwaid-2000er-201
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2427414@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261115
 SUMMARY:Lion Theater Creußen - "Richtig g`lacht - glücklich g`macht"
@@ -321,7 +121,7 @@ URL:https://www.mainwelle.de/veranstaltung/lion-theater-creussen-richtig-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2442708@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261115
 SUMMARY:Theater: Kaufhaus in Trouble- Ein Dreiakter von Winnie Abel
@@ -338,7 +138,7 @@ URL:https://www.mainwelle.de/veranstaltung/theater-kaufhaus-in-trouble-ein-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2407896@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261107T160000Z
 DTEND:20261107T200000Z
 SUMMARY:Nacht der Klänge in der Ordenskirche
@@ -354,7 +154,7 @@ URL:https://www.mainwelle.de/veranstaltung/nacht-der-klaenge-in-der-ordensk
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2481780@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261107T180000Z
 DTEND:20261107T190000Z
 SUMMARY:Hubertusmesse in Benk-Bindlach
@@ -371,7 +171,7 @@ URL:https://www.mainwelle.de/veranstaltung/hubertusmesse-in-benk-bindlach/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2503827@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261107T180000Z
 DTEND:20261107T220000Z
 SUMMARY:Oldies der 60er und 70er zum Mitsingen
@@ -383,7 +183,7 @@ URL:https://www.mainwelle.de/veranstaltung/oldies-der-60er-und-70er-zum-mit
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2410296@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261108T070000Z
 DTEND:20261108T160000Z
 SUMMARY:Flohmarkt Wunsiedel Innenstadt mit Jahrmarkt
@@ -395,7 +195,7 @@ URL:https://www.mainwelle.de/veranstaltung/flohmarkt-wunsiedel-innenstadt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2477685@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261108T090000Z
 DTEND:20261108T160000Z
 SUMMARY:22. Regionaler Künstlermarkt
@@ -411,7 +211,7 @@ URL:https://www.mainwelle.de/veranstaltung/22-regionaler-kuenstlermarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2451504@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261113T120000Z
 DTEND:20261113T140000Z
 SUMMARY:Tag der offenen Tür im "Langadorfs"
@@ -422,7 +222,7 @@ URL:https://www.mainwelle.de/veranstaltung/tag-der-offenen-tuer-im-langador
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2501565@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Waffelverkauf für den guten Zweck in Weidenberg
@@ -434,7 +234,7 @@ URL:https://www.mainwelle.de/veranstaltung/waffelverkauf-fuer-den-guten-zwe
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2486586@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261114T120000Z
 DTEND:20261114T140000Z
 SUMMARY:DAV Winterbasar 2026
@@ -451,7 +251,7 @@ URL:https://www.mainwelle.de/veranstaltung/dav-winterbasar-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2487954@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:Böhmischer Abend der Waischenfelder Blasmusik
@@ -468,7 +268,7 @@ URL:https://www.mainwelle.de/veranstaltung/boehmischer-abend-der-waischenfe
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2343519@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261115T130000Z
 DTEND:20261115T180000Z
 SUMMARY:Winterzauber bei den Alpakas 2026 (Ahorn Alpakas)
@@ -485,7 +285,7 @@ URL:https://www.mainwelle.de/veranstaltung/winterzauber-bei-den-alpakas-202
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2499510@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261120T190000Z
 DTEND:20261120T213000Z
 SUMMARY:Improtheater mit Mamaladnamala
@@ -501,7 +301,7 @@ URL:https://www.mainwelle.de/veranstaltung/improtheater-mit-mamaladnamala/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2440701@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261121T130000Z
 DTEND:20261121T203000Z
 SUMMARY:Jahreskonzert des Ersten Harmonika-Clubs Bayreuth
@@ -514,7 +314,7 @@ URL:https://www.mainwelle.de/veranstaltung/jahr-des-akkordeons/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2483349@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Böhmischer Abend von der Pegnitz an die Isar in Creußen
@@ -531,7 +331,7 @@ URL:https://www.mainwelle.de/veranstaltung/boehmischer-abend-von-der-pegnit
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2494749@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261121T190000Z
 DTEND:20261121T230000Z
 SUMMARY:Schafkopfrennen in Obernsees
@@ -542,7 +342,7 @@ URL:https://www.mainwelle.de/veranstaltung/schafkopfrennen-in-obernsees/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2486985@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261122T083000Z
 DTEND:20261122T110000Z
 SUMMARY:Winter- und Spielzeug- Basar Pegnitz
@@ -553,7 +353,7 @@ URL:https://www.mainwelle.de/veranstaltung/winter-und-spielzeug-basar-pegni
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2360322@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:Pottensteiner Winterzauber
@@ -566,7 +366,7 @@ URL:https://www.mainwelle.de/veranstaltung/pottensteiner-winterzauber/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2484144@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261128T130000Z
 DTEND:20261128T180000Z
 SUMMARY:Leupser Schupfenadvent
@@ -578,7 +378,7 @@ URL:https://www.mainwelle.de/veranstaltung/leupser-schupfenadvent/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2490129@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:"Kleinkunst ganz groß": MarMaLate live in Eckersdorf
@@ -596,7 +396,7 @@ URL:https://www.mainwelle.de/veranstaltung/konzert-marmalate-live-in-eckers
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2473938@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Adventskonzert mit Lighthouse
@@ -610,7 +410,7 @@ URL:https://www.mainwelle.de/veranstaltung/adventskonzert-mit-lighthouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2482890@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261129T120000Z
 DTEND:20261129T140000Z
 SUMMARY:Ski- und Outdoorflohmarkt im ZENTRUM
@@ -627,7 +427,7 @@ URL:https://www.mainwelle.de/veranstaltung/ski-und-outdoorflohmarkt-im-zent
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2484165@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
 SUMMARY:Weihnachts-Töpfermarkt Schloss Thurnau
@@ -645,7 +445,7 @@ URL:https://www.mainwelle.de/veranstaltung/weihnachts-toepfermarkt-schloss-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2475228@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261205T180000Z
 DTEND:20261205T200000Z
 SUMMARY:Katizi Music Weihnachtskonzert
@@ -659,7 +459,7 @@ URL:https://www.mainwelle.de/veranstaltung/katizi-music-weihnachtskonzert/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2500218@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261211T163000Z
 DTEND:20261211T210000Z
 SUMMARY:Donndorfer-Siedler-Winterdorf
@@ -673,7 +473,7 @@ URL:https://www.mainwelle.de/veranstaltung/donndorfer-siedler-winterdorf/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2473965@mainwelle.de
-DTSTAMP:20261025T082841Z
+DTSTAMP:20261026T090024Z
 DTSTART:20261213T150000Z
 DTEND:20261213T163000Z
 SUMMARY:Nemmersdorfer Weihnacht
