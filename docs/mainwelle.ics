@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:mainwelle-2382036@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20261201
 SUMMARY:RW21 Leseherbst 2026
@@ -25,7 +25,7 @@ URL:https://www.mainwelle.de/veranstaltung/rw21-leseherbst-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2546331@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261128
 SUMMARY:Letzte Veranstaltungen des KuKuK Bad Berneck
@@ -42,7 +42,7 @@ URL:https://www.mainwelle.de/veranstaltung/letzte-veranstaltungen-des-kukuk
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2556105@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261206
 SUMMARY:Die Bremer Stadtmusikanten im Brandenburger Kulturstadl
@@ -56,151 +56,8 @@ URL:https://www.mainwelle.de/veranstaltung/die-bremer-stadtmusikanten-im-br
  andenburger-kulturstadl/
 END:VEVENT
 BEGIN:VEVENT
-UID:mainwelle-2548101@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T083000Z
-DTEND:20261122T130000Z
-SUMMARY:Herbstbasar des Skiverbands Oberfranken im BLSV Sportcamp
-LOCATION:BLSV Camp Nordbayern Bischofsgrün\, Am Sportcamp 1\, 95493 Bischo
- fsgrün
-DESCRIPTION:Zeit laut Veranstalter: 9:30 – 14:00\nEintritt: Eintritt frei
- \nSei dabei beim Herbstflohmarkt des Skiverbands Oberfranken! Verkauft wir
- d alles rund um den Wintersport\, Skier\, Schuhe und Sportbekleidung\, ins
- besondere auch Langlaufequipment.
-URL:https://www.mainwelle.de/veranstaltung/herbstbasar-des-skiverbands-ober
- franken-im-blsv-sportcamp/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2486985@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T083000Z
-DTEND:20261122T110000Z
-SUMMARY:Winter- und Spielzeug- Basar Pegnitz
-LOCATION:Pfarrsaal Herz- ❤️ Jesu- Kirche ⛪️\, 91257 Pegnitz
-DESCRIPTION:Zeit laut Veranstalter: 9:30 – 12:00\nEintritt: Eintritt frei
-URL:https://www.mainwelle.de/veranstaltung/winter-und-spielzeug-basar-pegni
- tz/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2562453@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T090000Z
-DTEND:20261122T170000Z
-SUMMARY:Modellbahnausstellung 2026 beim MEC Bayreuth e.V.
-LOCATION:Kaufland\, 2. Obergeschoss\, Weiherstraße 27\, 95448 Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 10:00 – 18:00\nEintritt: Ab 16 Jahren
- : 5\,00 € - Bis 16 Jahre: 2\,50 € - Bis 6 Jahre: Eintritt frei\nMEC Ba
- yreuth Es ist wieder soweit! Der Modell-Eisenbahn-Club Bayreuth e.V. öffn
- et auch 2026 wieder seine Türen und lädt euch herzlich zu unserer Modell
- bahnausstellung ein. An drei Sonntagen habt ihr die Möglichkeit\, unsere 
- Vereinsräume zu besuchen\, unsere Modellbahnanlagen in verschiedenen Spur
- weiten zu entdecken und einen Blick auf unsere aktuellen Projekte zu werfe
- n. 🆕 2026 gibt es…
-URL:https://www.mainwelle.de/veranstaltung/modellbahnausstellung-2026-beim-
- mec-bayreuth-e-v/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2540460@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T100000Z
-DTEND:20261122T170000Z
-SUMMARY:Weihnachtsmarkt im Mai-Hof
-LOCATION:Gasthaus Mai-Hof\, Köttweinsdorf 30 91344 Waischenfeld
-DESCRIPTION:Zeit laut Veranstalter: 11 – 18\nEintritt: EINTRITT FREI\nGen
- ießen Sie die vorweihnachtliche Stimmung beim stimmungsvollen Weihnachtsm
- arkt im Mai-Hof in Waischenfeld! ​Wann: Sonntag\, 22. November 2026\, vo
- n 11:00 bis 18:00 Uhr (Der Weihnachtsmann schaut um 15:00 Uhr vorbei!) ​
- Wo: Gasthaus Mai-Hof\, Köttweinsdorf 30\, 91344 Waischenfeld ​Freuen Si
- e sich auf eine große Auswahl an diversen Ständen mit handgefertigten Ar
- tikeln wie Deko\, Adventskränzen\, Keramik und vielem…
-URL:https://www.mainwelle.de/veranstaltung/weihnachtsmarkt-im-mai-hof/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2551401@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T120000Z
-DTEND:20261122T160000Z
-SUMMARY:Adventsmarkt Emtmannsberg
-LOCATION:Schlossplatz Dorfladen Emtmannsberg\, Schlosshof 10
-DESCRIPTION:Zeit laut Veranstalter: 13:00 – 17:00\nEintritt: Eintritt fre
- i
-URL:https://www.mainwelle.de/veranstaltung/adventsmarkt-emtmannsberg/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2526357@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T120000Z
-DTEND:20261122T230000Z
-SUMMARY:Weihnachtsmarkt in Löhlitz
-LOCATION:Löhlitz\, am Feuerwehrhaus
-DESCRIPTION:Zeit laut Veranstalter: 13:00 – 24:00\nEintritt: Eintritt fre
- i
-URL:https://www.mainwelle.de/veranstaltung/weihnachtsmarkt-in-loehlitz/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2522301@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T120000Z
-DTEND:20261122T170000Z
-SUMMARY:Weihnachtswichtelmarkt in Hohenmirsberg
-LOCATION:Im Haus St. Martin in Hohenmirsberg\, Hohenmirsberg 10 / 91278 Pot
- tenstein
-DESCRIPTION:Zeit laut Veranstalter: 13 Uhr – 18 Uhr\nEintritt: Frei\nFreu
- t euch auf viele verschieden Aussteller\, musikalischer Eröffnung der Kin
- dergartenkinder und köstlichen Leckereien. Lasst euch Weihnachtlich verza
- ubern und kommt in die weihnachtliche Vorfreude mit uns 🙂…
-URL:https://www.mainwelle.de/veranstaltung/weihnachtswichtelmarkt-in-hohenm
- irsberg/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2559462@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T160000Z
-DTEND:20261122T170000Z
-SUMMARY:Benefizkonzert des Bayreuther Gitarren- und Mandolinenorchesters e.
- V.
-LOCATION:Lutherkirche\, Bodenseering 95\, 95445 Bayreuth
-DESCRIPTION:Zeit laut Veranstalter: 17:00 – 18:00\nEintritt: Eintritt fre
- i\nDas Bayreuther Gitarren- und Mandolinenorchester e.V. spielt am Sonntag
- \, den 22. November\, um 17:00 Uhr in der Lutherkirche\, Bodenseering 95\,
-  ein Benefizkonzert. Sieben Mandolinen\, eine Mandola\, 14 Gitarren und ei
- n Gitarrenbass gestalten in den Besetzungen Gitarrenensemble und Zupforche
- ster ein abwechslungsreiches und kurzweiliges Programm mit Originalwerken 
- und Bearbeitungen aus verschiedenen Epochen. Der Eintritt ist frei –…
-URL:https://www.mainwelle.de/veranstaltung/benefizkonzert-des-bayreuther-gi
- tarren-und-mandolinenorchesters-e-v/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2558103@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T160000Z
-DTEND:20261122T170000Z
-SUMMARY:Benefizkonzert in Michelfeld
-LOCATION:Kirche St. Johannes Michelfeld/Oberpfalz\, 91275 Michelfeld
-DESCRIPTION:Zeit laut Veranstalter: 17 – 18\nEintritt: Eintritt frei\nBen
- efizkonzert zum Christkönigssonntag Die Chorgemeinschaft Büchenbach und 
- der Medizinerchor Erlangen führen in zwei gemeinsamen Konzerten zwei Jazz
- messen von Bob Chilcott (geb. 1955) auf. Der britische Komponist schafft e
- s mit der Besetzung für gemischten Chor\, Klavier und Kontrabass\, jazzig
- e Harmonien und einen besonderen Groove zu erzeugen. Ergänzt wird das Pro
- gramm von englisch-sprachigen Motetten des ebenfalls aus…
-URL:https://www.mainwelle.de/veranstaltung/benefizkonzert-in-michelfeld/
-END:VEVENT
-BEGIN:VEVENT
-UID:mainwelle-2529279@mainwelle.de
-DTSTAMP:20261122T113012Z
-DTSTART:20261122T160000Z
-DTEND:20261122T200000Z
-SUMMARY:Konzert mit Rekkenze Brass in der Marienkirche Pegnitz
-LOCATION:Marienkirche\, Am Schloßberg 19\, 91257 Pegnitz
-DESCRIPTION:Zeit laut Veranstalter: 17:00 – 21:00\nEintritt: Eintritt fre
- i\nKonzert mit REKKENZE BRASS…
-URL:https://www.mainwelle.de/veranstaltung/konzert-mit-rekkenze-brass-in-de
- r-marienkirche-pegnitz/
-END:VEVENT
-BEGIN:VEVENT
 UID:mainwelle-2547372@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261127T160000Z
 DTEND:20261127T180000Z
 SUMMARY:Licht und Klang in Creußen
@@ -210,21 +67,24 @@ DESCRIPTION:Zeit laut Veranstalter: Ab 17 Uhr Wintermarkt – Offen\nEintri
 URL:https://www.mainwelle.de/veranstaltung/licht-und-klang-in-creussen/
 END:VEVENT
 BEGIN:VEVENT
-UID:mainwelle-2360322@mainwelle.de
-DTSTAMP:20261122T113012Z
+UID:mainwelle-2563857@mainwelle.de
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:Pottensteiner Winterzauber
 LOCATION:Pottenstein\, Altstadt
 DESCRIPTION:Zeit laut Veranstalter: 14:00 – 20:00\nEintritt: Eintritt fre
- i\nPottensteiner Winterzauber – die historische Altstadt verwandelt sich
-  in eine winterlich-weihnachtliche Wunderwelt. Das ausführliche Programm 
- unter www.pottenstein.de…
-URL:https://www.mainwelle.de/veranstaltung/pottensteiner-winterzauber/
+ i\nPottensteiner Winterzauber am ersten Adventswochenende – Historische 
+ Altstadt im weihnachtlichen Flair Tourismusbüro Pottenstein Der „Potten
+ steiner Winterzauber“ findet alljährlich am ersten Adventswochenende st
+ att\, heuer also am Samstag\, den 28. November (von 14 Uhr bis 20 Uhr) und
+  Sonntag\, den 29. November (von 13 Uhr bis 20 Uhr) in der Hauptstraße un
+ d im Bereich rund um das…
+URL:https://www.mainwelle.de/veranstaltung/pottensteiner-winterzauber-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2484144@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261128T130000Z
 DTEND:20261128T180000Z
 SUMMARY:Leupser Schupfenadvent
@@ -236,7 +96,7 @@ URL:https://www.mainwelle.de/veranstaltung/leupser-schupfenadvent/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2558109@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261128T140000Z
 DTEND:20261128T190000Z
 SUMMARY:20. Plankenfelser Weihnachtsmarkt
@@ -248,7 +108,7 @@ URL:https://www.mainwelle.de/veranstaltung/20-plankenfelser-weihnachtsmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2549967@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261128T170000Z
 DTEND:20261128T183000Z
 SUMMARY:Adventskonzert LICHT SEIN in Kasendorf
@@ -259,8 +119,24 @@ URL:https://www.mainwelle.de/veranstaltung/adventskonzert-licht-sein-in-kas
  endorf/
 END:VEVENT
 BEGIN:VEVENT
+UID:mainwelle-2563662@mainwelle.de
+DTSTAMP:20261123T125335Z
+DTSTART:20261128T170000Z
+DTEND:20261128T220000Z
+SUMMARY:Christbaumeinsingen und Adventsmarkt in Obernsees
+LOCATION:Festplatz Obernsees
+DESCRIPTION:Zeit laut Veranstalter: 18 Uhr – 23 Uhr\nEintritt: Eintritt F
+ rei\nChristbaumeinsingen mit Nikolaus\, dem Christkind und dem Liederhort 
+ Obernsees -> am Marktplatz Obernsees. Anschließend Eröffnung des Advents
+ markt am Festplatz Obernsees mit Theaterstück „Wer schießt denn da auf
+  den Weihnachtsmann?“ der Theatergruppe Obernsees. -> Beginn 19.00 Uhr
+ …
+URL:https://www.mainwelle.de/veranstaltung/christbaumeinsingen-und-adventsm
+ arkt-in-obernsees/
+END:VEVENT
+BEGIN:VEVENT
 UID:mainwelle-2490129@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:"Kleinkunst ganz groß": MarMaLate live in Eckersdorf
@@ -278,7 +154,7 @@ URL:https://www.mainwelle.de/veranstaltung/konzert-marmalate-live-in-eckers
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2533038@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Adventskonzert in der Pfarrkirche Nemmersdorf
@@ -291,7 +167,7 @@ URL:https://www.mainwelle.de/veranstaltung/adventskonzert-in-der-pfarrkirch
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2473938@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Adventskonzert mit Lighthouse
@@ -305,7 +181,7 @@ URL:https://www.mainwelle.de/veranstaltung/adventskonzert-mit-lighthouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2506338@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261128T180000Z
 DTEND:20261128T230000Z
 SUMMARY:Rock in Blusg
@@ -316,7 +192,7 @@ URL:https://www.mainwelle.de/veranstaltung/rock-in-blusg/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2515170@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Gaasmoosfest der LJG Görschnitz
@@ -333,7 +209,7 @@ URL:https://www.mainwelle.de/veranstaltung/gaasmoosfest-der-ljg-goerschnitz
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2562630@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261129T080000Z
 DTEND:20261129T110000Z
 SUMMARY:Spielzeugflohmarkt der Kita Neunkirchen am Main
@@ -350,7 +226,7 @@ URL:https://www.mainwelle.de/veranstaltung/spielzeugflohmarkt-der-kita-neun
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2562456@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261129T090000Z
 DTEND:20261129T170000Z
 SUMMARY:🚂 Modellbahnausstellung 2026 beim MEC Bayreuth e.V. 🚂
@@ -368,7 +244,7 @@ URL:https://www.mainwelle.de/veranstaltung/%f0%9f%9a%82-modellbahnausstellu
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2557635@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261129T103000Z
 DTEND:20261129T170000Z
 SUMMARY:Lainecker Adventsmarkt
@@ -379,7 +255,7 @@ URL:https://www.mainwelle.de/veranstaltung/lainecker-adventsmarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2482890@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261129T120000Z
 DTEND:20261129T140000Z
 SUMMARY:Ski- und Outdoorflohmarkt im ZENTRUM
@@ -396,7 +272,7 @@ URL:https://www.mainwelle.de/veranstaltung/ski-und-outdoorflohmarkt-im-zent
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2544681@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261129T130000Z
 DTEND:20261129T180000Z
 SUMMARY:Weihnachten in der Scherzenmühle
@@ -408,7 +284,7 @@ URL:https://www.mainwelle.de/veranstaltung/weihnachten-in-der-scherzenmuehl
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2543727@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261129T130000Z
 DTEND:20261129T190000Z
 SUMMARY:Wintertraum im Brauereibiergarten Schlammersdorf
@@ -419,8 +295,20 @@ URL:https://www.mainwelle.de/veranstaltung/wintertraum-im-brauereibiergarte
  n-schlammersdorf/
 END:VEVENT
 BEGIN:VEVENT
+UID:mainwelle-2563908@mainwelle.de
+DTSTAMP:20261123T125335Z
+DTSTART:20261129T150000Z
+DTEND:20261129T210000Z
+SUMMARY:Benefizkonzert in der Hedwigskirche in Bayreuth
+LOCATION:St. Hedwig Bayreuth\, Schwindstraße 14a\, 95447 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 16:00 – 22:00\nEintritt: Eintritt fre
+ i - Spenden erbeten\nSängergruppe Bayreuth…
+URL:https://www.mainwelle.de/veranstaltung/benefizkonzert-in-der-hedwigskir
+ che-in-bayreuth/
+END:VEVENT
+BEGIN:VEVENT
 UID:mainwelle-2532795@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
 SUMMARY:Donndorfer-Siedler-Winterdorf
@@ -434,8 +322,25 @@ DESCRIPTION:Zeit laut Veranstalter: 17.30\nEintritt: Eintritt frei\nHerzlic
 URL:https://www.mainwelle.de/veranstaltung/donndorfer-siedler-winterdorf-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:mainwelle-2563878@mainwelle.de
+DTSTAMP:20261123T125335Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Advent im Gassenviertel in Bayreuth
+LOCATION:Kirchplatz 1\, 95444 Bayreuth
+DESCRIPTION:Zeit laut Veranstalter: 20:00 – 21:00\nEintritt: Eintritt fre
+ i\nTino Dittrich Advent im Gassenviertel: Markt\, Musik und Märchenoper r
+ und um die Stadtkirche. Am 5. und 6. Dezember laden über 20 Buden und ein
+  Programm ohne Eintritt auf den Kirchplatz ein und am Vorabend ist eine mu
+ sikalische Adventslesung zum Rilke-Jubiläum Am zweiten Adventswochenende\
+ , Samstag\, 5. Dezember\, und Sonntag\, 6. Dezember\, öffnet rund um die
+ …
+URL:https://www.mainwelle.de/veranstaltung/advent-im-gassenviertel-in-bayre
+ uth/
+END:VEVENT
+BEGIN:VEVENT
 UID:mainwelle-2484165@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
 SUMMARY:Weihnachts-Töpfermarkt Schloss Thurnau
@@ -453,7 +358,7 @@ URL:https://www.mainwelle.de/veranstaltung/weihnachts-toepfermarkt-schloss-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2525025@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
 SUMMARY:Nacht der Hoffnung in Nankendorf
@@ -467,7 +372,7 @@ URL:https://www.mainwelle.de/veranstaltung/nacht-der-hoffnung-in-nankendorf
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2555220@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Adventsmarkt in Cottenbach
@@ -483,7 +388,7 @@ URL:https://www.mainwelle.de/veranstaltung/adventsmarkt-in-cottenbach/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2524416@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261205T130000Z
 DTEND:20261205T230000Z
 SUMMARY:Winterglühen mit Christbaumverkauf in Pottenstein
@@ -498,7 +403,7 @@ URL:https://www.mainwelle.de/veranstaltung/wintergluehen-mit-christbaumverk
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2526324@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261205T140000Z
 DTEND:20261205T190000Z
 SUMMARY:Nikolauszauber beim SV Röhrenhof
@@ -517,7 +422,7 @@ URL:https://www.mainwelle.de/veranstaltung/nikolauszauber-beim-sv-roehrenho
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2475228@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261205T180000Z
 DTEND:20261205T200000Z
 SUMMARY:Katizi Music Weihnachtskonzert
@@ -531,7 +436,7 @@ URL:https://www.mainwelle.de/veranstaltung/katizi-music-weihnachtskonzert/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2562459@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261206T090000Z
 DTEND:20261206T170000Z
 SUMMARY:🚂 Modellbahnausstellung 2026 beim MEC Bayreuth e.V. 🚂
@@ -549,7 +454,7 @@ URL:https://www.mainwelle.de/veranstaltung/%f0%9f%9a%82-modellbahnausstellu
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2556690@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261206T100000Z
 DTEND:20261206T200000Z
 SUMMARY:Bischofsgrüner Weihnachtsmarkt
@@ -561,7 +466,7 @@ URL:https://www.mainwelle.de/veranstaltung/bischofsgruener-weihnachtsmarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2540115@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261206T123000Z
 DTEND:20261206T163000Z
 SUMMARY:Mistelbacher Weihnachtsmarkt
@@ -578,7 +483,7 @@ URL:https://www.mainwelle.de/veranstaltung/mistelbacher-weihnachtsmarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2542884@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261206T130000Z
 DTEND:20261206T160000Z
 SUMMARY:Adventsflohmarkt im Tierheim Bayreuth
@@ -596,7 +501,7 @@ URL:https://www.mainwelle.de/veranstaltung/adventsflohmarkt-im-tierheim-bay
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2544684@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261206T130000Z
 DTEND:20261206T160000Z
 SUMMARY:Der Nikolaus kommt in die Scherzenmühle
@@ -608,7 +513,7 @@ URL:https://www.mainwelle.de/veranstaltung/der-nikolaus-kommt-in-die-scherz
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2526492@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261206T140000Z
 DTEND:20261206T160000Z
 SUMMARY:"Oh Hohli Nait!" - Weihnachtskomödie im Kunstmuseum
@@ -620,7 +525,7 @@ URL:https://www.mainwelle.de/veranstaltung/oh-hohli-nait-weihnachtskomoedie
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2500218@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261213
 SUMMARY:Donndorfer-Siedler-Winterdorf
@@ -635,7 +540,7 @@ URL:https://www.mainwelle.de/veranstaltung/donndorfer-siedler-winterdorf/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2558775@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261211T170000Z
 DTEND:20261211T190000Z
 SUMMARY:Bayreuther Winterdorf – Mainwelle Party im Dorf
@@ -651,7 +556,7 @@ URL:https://www.mainwelle.de/veranstaltung/bayreuther-winterdorf-mainwelle-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2473965@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261213T150000Z
 DTEND:20261213T163000Z
 SUMMARY:Nemmersdorfer Weihnacht
@@ -668,7 +573,7 @@ URL:https://www.mainwelle.de/veranstaltung/nemmersdorfer-weihnacht/
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2557974@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20261218T164500Z
 DTEND:20261218T183000Z
 SUMMARY:Weihnachtsabend mit We ❤️ Music
@@ -682,7 +587,7 @@ URL:https://www.mainwelle.de/veranstaltung/weihnachtsabend-mit-we-%e2%9d%a4
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2509371@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261221
 SUMMARY:Last-Minute Geschenk- und Weihnachtsmarkt im Gutshof Mengersdorf
@@ -699,7 +604,7 @@ URL:https://www.mainwelle.de/veranstaltung/last-minute-geschenk-und-weihnac
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2510307@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART:20270123T083000Z
 DTEND:20270123T110000Z
 SUMMARY:Kinderbasar Kindergarten Heilig Geist
@@ -711,7 +616,7 @@ URL:https://www.mainwelle.de/veranstaltung/kinderbasar-kindergarten-heilig-
 END:VEVENT
 BEGIN:VEVENT
 UID:mainwelle-2533134@mainwelle.de
-DTSTAMP:20261122T113012Z
+DTSTAMP:20261123T125335Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270207
 SUMMARY:Theater des TSV Glashütten: "Modenschau im Ochsenstall"
